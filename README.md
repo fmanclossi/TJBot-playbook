@@ -13,6 +13,8 @@ Second, free your creativity!
 
 I'm collected a presentation about TJBot and this task is  born to support activities performed at I.I.S. Galileo Galilei di Crema (CR), a secondary state school with about 1,900 students aged 14-19 working in two fields of education: “Applied Sciences high school” and “Technological high school”.
 
+[Last version](ASL%20-%20TJBot%20playground%20v0.5.20180618.pptx)
+
 This is an *early* way to share it.
 
 # License  
