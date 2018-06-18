@@ -1,7 +1,7 @@
 # TJBot-playbook
 Collected information about IBM TJBot, my enahncements and most from all the fans around the world!
 
-Contribution are welcome, please contribute using PULL method.
+Contribution are welcome!
 
 First of all, read https://github.com/ibmtjbot/tjbot
 Many thanks to the entire TJBot team!!!
@@ -18,7 +18,7 @@ I've collected a presentation about TJBot to support activities performed at I.I
 
 This is an *early* way to share it.
 
-I hope to find time to colelct and share student's guide and proposed exercises.
+I hope to find time to collect and share student's guide and proposed exercises.
 
 # License  
 This project uses the [Apache License Version 2.0](LICENSE) software license.  
