@@ -7,9 +7,7 @@ First of all, read https://github.com/ibmtjbot/tjbot
 
 Second, free your creativity!
 
-![ASLTJBot](/ASLTJBot_2018_two_arms.gif)
-
-![Chaining LEDs](/Images/TwoLEDsConnection_pay_attention.jpg)
+![ASLTJBot](/Images/ASLTJBot_2018_two_arms.gif)
 
 ![Faccina (little face)](/Images/Faccina.jpg)
 
