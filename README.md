@@ -36,21 +36,20 @@ Bring TJBot to life following instructions available at https://github.com/ibmtj
 * Remind your Raspberry user and password :)
 * Note your TJBot IP address (if it remains the same)
 * Perform all the tests
-
-** Connect to Raspberry (using local keyboard/screen, VNC or SSH)
-** Install TJBot test prerequisite. The following command assumes you have cloned the tjbot git repository to your Desktop.
+  * Connect to Raspberry (using local keyboard/screen, VNC or SSH)
+  * Install TJBot test prerequisite. The following command assumes you have cloned the tjbot git repository to your Desktop.
 
     npm install ~/Desktop/tjbot/bootstrap/tests
 
-** Go in bootstrap directory:
+  * Go in bootstrap directory:
 
     cd ~/Desktop/tjbot/bootstrap
 
-** Run full comprehensive tests for TJBot:
+  * Run full comprehensive tests for TJBot:
 
     ./runTests.sh
 
-** Or Run single test launching specific script:
+  * Or Run single test launching specific script:
 
     cd ~/Desktop/tjbot/bootstrap/tests
     sudo node test.camera.js
