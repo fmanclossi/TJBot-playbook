@@ -38,16 +38,24 @@ Bring TJBot to life following instructions available at https://github.com/ibmtj
 ** Connect to Raspberry (using local keyboard/screen, VNC or SSH)
 ** Install TJBot test prerequisite. The following command assumes you have cloned the tjbot git repository to your Desktop.
 > npm install ~/Desktop/tjbot/bootstrap/tests
+
 ** Go in bootstrap directory:
 > cd ~/Desktop/tjbot/bootstrap
+
 ** Run full comprehensive tests for TJBot:
 > ./runTests.sh
+
 ** Or Run single test launching specific script:
 > cd ~/Desktop/tjbot/bootstrap/tests
+
 > sudo node test.camera.js
+
 > sudo node test.led.js
+
 > sudo node test.servo.js
+
 > sudo node test.speaker.js
+
 * Try some official recipes on your own *before* performing laboratories at school :)
 
 ## Let's cooking
@@ -59,6 +67,8 @@ Recipes are step-by-step instructions to bring your TJBot to life. They follow a
 * [Make Your Robot Respond to Emotions Using Watson!](http://www.instructables.com/id/Make-Your-Robot-Respond-to-Emotions-Using-Watson/)
 * [Build a Talking Robot with Watson!](http://www.instructables.com/id/Make-Your-Robot-Respond-to-Emotions-Using-Watson/)
 
+# Working On... 
+Where I can buy more time?
 
 
 # License  
