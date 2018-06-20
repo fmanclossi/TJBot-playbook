@@ -30,6 +30,7 @@ Bring TJBot to life following instructions available at https://github.com/ibmtj
 ![Bring TJBot to life](https://github.com/ibmtjbot/tjbot/raw/master/images/tjbot.jpg)
 
 ## Some tips:
+
 * Carefully verify LED PINs layout
 * If you plan to use LED, disable internal audio and use a USB audio adapter or bluetooth
 * Remind your Raspberry user and password :)
@@ -37,24 +38,24 @@ Bring TJBot to life following instructions available at https://github.com/ibmtj
 * Perform all the tests
 ** Connect to Raspberry (using local keyboard/screen, VNC or SSH)
 ** Install TJBot test prerequisite. The following command assumes you have cloned the tjbot git repository to your Desktop.
-> npm install ~/Desktop/tjbot/bootstrap/tests
+
+    npm install ~/Desktop/tjbot/bootstrap/tests
 
 ** Go in bootstrap directory:
-> cd ~/Desktop/tjbot/bootstrap
+
+    cd ~/Desktop/tjbot/bootstrap
 
 ** Run full comprehensive tests for TJBot:
-> ./runTests.sh
+
+    ./runTests.sh
 
 ** Or Run single test launching specific script:
-> cd ~/Desktop/tjbot/bootstrap/tests
 
-> sudo node test.camera.js
-
-> sudo node test.led.js
-
-> sudo node test.servo.js
-
-> sudo node test.speaker.js
+    cd ~/Desktop/tjbot/bootstrap/tests
+    sudo node test.camera.js
+    sudo node test.led.js
+    sudo node test.servo.js
+    sudo node test.speaker.js
 
 * Try some official recipes on your own *before* performing laboratories at school :)
 
