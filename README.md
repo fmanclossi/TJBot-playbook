@@ -52,9 +52,13 @@ Bring TJBot to life following instructions available at https://github.com/ibmtj
   * Or Run single test launching specific script:
 
     cd ~/Desktop/tjbot/bootstrap/tests
+    
     sudo node test.camera.js
+    
     sudo node test.led.js
+    
     sudo node test.servo.js
+    
     sudo node test.speaker.js
 
 * Try some official recipes on your own *before* performing laboratories at school :)
