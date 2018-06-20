@@ -1,0 +1,17 @@
+<html>
+<head><title>Anything else - TJBot recognizes objects</title></head>
+<body>
+<h1>TJBot recognizes objects</h1>
+<p>Analyzed image: /TJBot_photo.jpg <br/><img src="/TJBot_photo.jpg" height='300'/></p>
+<table border='1'>
+    <thead><tr><th>Name</th><th>Score</th><th>Hierarchy</th></tr></thead>
+{{#payload}}
+  <tr><td><b>{{class}}</b></td><td><i>{{score}}</i></td><td><i>{{type_hierarchy}}</i></td></tr>
+{{/payload}}
+</table>
+<form>
+    <input type="submit" value="Try again"/>
+</form>
+<a href="/menu">Back to menu</a><br/>
+</body>
+</html>
