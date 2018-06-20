@@ -64,15 +64,27 @@ Bring TJBot to life following instructions available at https://github.com/ibmtj
 ### Try some official recipes on your own *before* performing laboratories at school :)
 
 Recipes are step-by-step instructions to bring your TJBot to life. They follow a typical structure:
-![recipe structure](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Segrate_ASL2018/Images/TJBot%20Lab%20-%20Recipe%20structure.jpg)
+![recipe structure](https://github.com/fmanclossi/TJBot-playbook/blob/master/setup/Images/TJBot%20Lab%20-%20Recipe%20structure.jpg)
 
 **Official recipes:**
 * [Use Your Voice to Control a Light with Watson!](http://www.instructables.com/id/Use-Your-Voice-to-Control-a-Light-With-Watson/)
 * [Make Your Robot Respond to Emotions Using Watson!](http://www.instructables.com/id/Make-Your-Robot-Respond-to-Emotions-Using-Watson/)
 * [Build a Talking Robot with Watson!](http://www.instructables.com/id/Make-Your-Robot-Respond-to-Emotions-Using-Watson/)
 
-# Working On... 
+
+## Setup a NOT standard TJBot
+*.... to be completed...*
+[TJbot with two arms and two LEDs... and more!](https://github.com/fmanclossi/tjbotTwoArmsTwoLEDs)
+
+
+# Let's Play
+
+## Working On... 
 *Where I can buy more time?*
+
+## Segrate Alternanza Scuola Lavoro May 2018
+*.... to be completed...*
+[Node-Red Labs with TJBot!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Segrate_ASL2018)
 
 
 # License  
