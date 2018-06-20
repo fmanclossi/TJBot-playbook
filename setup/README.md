@@ -1,5 +1,5 @@
-For many of the proposed LABs you can use a standard TJBot or a modified one. If a different configuration is required, it will be noted at the start of the exercise.
-Many exercises are based upon Node-Red. It's easy, fast, good for every kind of students (from kids to grandmas)!
+For many of the proposed LABs you can use a standard TJBot. If a different configuration is required, it will be noted at the start of the exercise.
+Many exercises are also based upon Node-Red. It's easy, fast, good for every kind of students (from kids to grandmas)!
 
 ## Setup a standard TJBot
 Bring TJBot to life following instructions available at https://github.com/ibmtjbot/tjbot
