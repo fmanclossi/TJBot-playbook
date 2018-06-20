@@ -36,6 +36,7 @@ Bring TJBot to life following instructions available at https://github.com/ibmtj
 * Remind your Raspberry user and password :)
 * Note your TJBot IP address (if it remains the same)
 * Perform all the tests
+
 ** Connect to Raspberry (using local keyboard/screen, VNC or SSH)
 ** Install TJBot test prerequisite. The following command assumes you have cloned the tjbot git repository to your Desktop.
 
