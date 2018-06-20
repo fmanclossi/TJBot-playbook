@@ -29,7 +29,7 @@ Many exercises are based upon Node-Red. It's easy, fast, good for every kind of 
 Bring TJBot to life following instructions available at https://github.com/ibmtjbot/tjbot
 ![Bring TJBot to life](https://github.com/ibmtjbot/tjbot/raw/master/images/tjbot.jpg)
 
-## Some tips:
+### Some tips:
 
 * Carefully verify LED PINs layout
 * If you plan to use LED, disable internal audio and use a USB audio adapter or bluetooth
@@ -61,19 +61,18 @@ Bring TJBot to life following instructions available at https://github.com/ibmtj
     
     `sudo node test.speaker.js`
 
-* Try some official recipes on your own *before* performing laboratories at school :)
+### Try some official recipes on your own *before* performing laboratories at school :)
 
-## Let's cooking
 Recipes are step-by-step instructions to bring your TJBot to life. They follow a typical structure:
-![recipe structure]()
+![recipe structure](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Segrate_ASL2018/Images/TJBot%20Lab%20-%20Recipe%20structure.jpg)
 
-### Official recipes:
+**Official recipes:**
 * [Use Your Voice to Control a Light with Watson!](http://www.instructables.com/id/Use-Your-Voice-to-Control-a-Light-With-Watson/)
 * [Make Your Robot Respond to Emotions Using Watson!](http://www.instructables.com/id/Make-Your-Robot-Respond-to-Emotions-Using-Watson/)
 * [Build a Talking Robot with Watson!](http://www.instructables.com/id/Make-Your-Robot-Respond-to-Emotions-Using-Watson/)
 
 # Working On... 
-Where I can buy more time?
+*Where I can buy more time?*
 
 
 # License  
