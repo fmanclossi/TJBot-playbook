@@ -7,7 +7,9 @@ Remind that you need to have an already setup TJBot. Jump here to setup a [stand
 
 # Credits
 This is my humble summary of the excellent work by JeanCarl Bisson, an IBM Developer Advocate. ![JeanCarlBisson](https://cdn-images-1.medium.com/fit/c/60/60/1*tocg1dafjcMwYIKG8wnpww.jpeg).
+
 You can reach him on [Github Repository](https://github.com/jeancarl/node-red-contrib-tjbot).
+
 JeanCarl also created a wonderful [Medium series on Node-Red and TJBot](https://medium.com/@jeancarlbisson/how-to-train-your-tjbot-in-node-red-88bfb3bbe0ab) where he explains how to setup and use his Node-Red nodes with YouTube videos and ready-to-use code.
 
 # Setup Node-Red on TJBot
@@ -21,20 +23,32 @@ sudo systemctl enable nodered.service
 * Then, install TJBot nodes from JeanCarl repository:
 
 `cd .node-red
+
 mkdir nodes
+
 cd nodes
+
 git clone https://github.com/jeancarl/node-red-contrib-tjbot
+
 cd node-red-contrib-tjbot
+
 npm install
+
 sudo nano /lib/systemd/system/nodered.service # some TJBot actions has to run as root so change User from pi to root
+
 sudo systemctl daemon-reload
+
 node-red-start # check node-red environment. Settings file should be at /root/.node-red/settings.js 
+
 node-red-stop
+
 mkdir /home/pi/Desktop/tjbot/Pictures # place to host static content from top level URL
+
 sudo nano /root/.node-red/settings.js. `
 
 * Modify /root/.node-red/settings.js to point to the original Node-RED directory uncommenting and setting userDir and nodesDir variables as 
-	`userDir: '/home/pi/.node-red/’,
+
+`userDir: '/home/pi/.node-red/’,
 	nodesDir: '/home/pi/.node-red/nodes’,
 	httpStatic: ‘/home/pi/Desktop/tjbot/Pictures/’`
 
