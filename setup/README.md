@@ -6,7 +6,7 @@ Many exercises are also based upon Node-Red. It's easy, fast, good for every kin
 * [TJbot with two arms and two LEDs... and more!](https://github.com/fmanclossi/tjbotTwoArmsTwoLEDs)
 
 # How to setup Node-Red on TJBot
-* ["standard" TJBot Node-Red environment from JeanCarlBisson](https://github.com/jeancarl/node-red-contrib-tjbot)
+* ["standard" TJBot Node-Red environment](Setup_Node-Red_on_TJBot.md)
 * [TJbot with two arms and two LEDs... and more!](https://github.com/fmanclossi/tjbotTwoArmsTwoLEDs)
 
 # Try some official recipes on your own *before* performing laboratories at school :)
