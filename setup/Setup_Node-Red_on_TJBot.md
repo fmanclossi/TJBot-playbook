@@ -14,43 +14,48 @@ JeanCarl also created a wonderful [Medium series on Node-Red and TJBot](https://
 
 # Setup Node-Red on TJBot
 * Upgrade Node-RED preinstalled with Raspbian Jessie using the command below.
-bash <(curl -sL https://raw.githubusercontent.com/node-red/raspbian-deb-package/master/resources/update-nodejs-and-nodered)
+
+`bash <(curl -sL https://raw.githubusercontent.com/node-red/raspbian-deb-package/master/resources/update-nodejs-and-nodered)`
 
 * Setup Node-Red to run when the Pi boots up, run:
-sudo systemctl enable nodered.service
-    `sudo node test.led.js`
+
+`sudo systemctl enable nodered.service`
+
+`sudo node test.led.js`
 
 * Then, install TJBot nodes from JeanCarl repository:
 
-`cd .node-red
+`cd .node-red`
 
-mkdir nodes
+`mkdir nodes`
 
-cd nodes
+`cd nodes`
 
-git clone https://github.com/jeancarl/node-red-contrib-tjbot
+`git clone https://github.com/jeancarl/node-red-contrib-tjbot`
 
-cd node-red-contrib-tjbot
+`cd node-red-contrib-tjbot`
 
-npm install
+`npm install`
 
-sudo nano /lib/systemd/system/nodered.service # some TJBot actions has to run as root so change User from pi to root
+`sudo nano /lib/systemd/system/nodered.service # some TJBot actions has to run as root so change User from pi to root`
 
-sudo systemctl daemon-reload
+`sudo systemctl daemon-reload`
 
-node-red-start # check node-red environment. Settings file should be at /root/.node-red/settings.js 
+`node-red-start # check node-red environment. Settings file should be at /root/.node-red/settings.js `
 
-node-red-stop
+`node-red-stop`
 
-mkdir /home/pi/Desktop/tjbot/Pictures # place to host static content from top level URL
+`mkdir /home/pi/Desktop/tjbot/Pictures # place to host static content from top level URL`
 
-sudo nano /root/.node-red/settings.js. `
+`sudo nano /root/.node-red/settings.js. `
 
 * Modify /root/.node-red/settings.js to point to the original Node-RED directory uncommenting and setting userDir and nodesDir variables as 
 
 `userDir: '/home/pi/.node-red/’,
-	nodesDir: '/home/pi/.node-red/nodes’,
-	httpStatic: ‘/home/pi/Desktop/tjbot/Pictures/’`
+
+nodesDir: '/home/pi/.node-red/nodes’,
+
+httpStatic: ‘/home/pi/Desktop/tjbot/Pictures/’`
 
 * Restart Node-Red environment
 
