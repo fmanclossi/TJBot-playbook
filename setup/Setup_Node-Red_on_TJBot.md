@@ -6,7 +6,8 @@ Node-RED is a flow-based development tool developed by Nick O’Leary and Dave C
 Remind that you need to have an already setup TJBot. Jump here to setup a [standard TJBot](Setup_standard_TJBot.md).
 
 # Credits
-This is my humble summary of the excellent work by ![JeanCarlBisson](https://cdn-images-1.medium.com/fit/c/60/60/1*tocg1dafjcMwYIKG8wnpww.jpeg). You can reach him on [Github Repository](https://github.com/jeancarl/node-red-contrib-tjbot).
+This is my humble summary of the excellent work by JeanCarl Bisson, an IBM Developer Advocate. ![JeanCarlBisson](https://cdn-images-1.medium.com/fit/c/60/60/1*tocg1dafjcMwYIKG8wnpww.jpeg).
+You can reach him on [Github Repository](https://github.com/jeancarl/node-red-contrib-tjbot).
 JeanCarl also created a wonderful [Medium series on Node-Red and TJBot](https://medium.com/@jeancarlbisson/how-to-train-your-tjbot-in-node-red-88bfb3bbe0ab) where he explains how to setup and use his Node-Red nodes with YouTube videos and ready-to-use code.
 
 # Setup Node-Red on TJBot
@@ -30,7 +31,7 @@ sudo systemctl daemon-reload
 node-red-start # check node-red environment. Settings file should be at /root/.node-red/settings.js 
 node-red-stop
 mkdir /home/pi/Desktop/tjbot/Pictures # place to host static content from top level URL
-sudo nano /root/.node-red/settings.js. 
+sudo nano /root/.node-red/settings.js. `
 
 * Modify /root/.node-red/settings.js to point to the original Node-RED directory uncommenting and setting userDir and nodesDir variables as 
 	`userDir: '/home/pi/.node-red/’,
