@@ -51,11 +51,11 @@ JeanCarl also created a wonderful [Medium series on Node-Red and TJBot](https://
 
 * Modify /root/.node-red/settings.js to point to the original Node-RED directory uncommenting and setting userDir and nodesDir variables as 
 
-`userDir: '/home/pi/.node-red/’,
+`userDir: '/home/pi/.node-red/’,`
 
-nodesDir: '/home/pi/.node-red/nodes’,
+`nodesDir: '/home/pi/.node-red/nodes’,`
 
-httpStatic: ‘/home/pi/Desktop/tjbot/Pictures/’`
+`httpStatic: ‘/home/pi/Desktop/tjbot/Pictures/’`
 
 * Restart Node-Red environment
 
