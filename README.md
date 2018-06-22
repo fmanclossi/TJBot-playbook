@@ -1,5 +1,5 @@
 # TJBot-playbook
-Collected information about IBM TJBot, my enahncements and most from all the fans around the world!
+Collected information about IBM TJBot, most from all the fans around the world!
 
 Contribution are welcome!
 
