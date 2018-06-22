@@ -29,6 +29,11 @@ Many exercises are based upon Node-Red. It's easy to learn and to explain, and g
 
 # Let's Play
 
+## JeanCarl Node-Red examples
+JeanCarl Bisson, an IBM Developer Advocate. ![JeanCarlBisson](https://cdn-images-1.medium.com/fit/c/60/60/1*tocg1dafjcMwYIKG8wnpww.jpeg) created a wonderful [Medium series on Node-Red and TJBot](https://medium.com/@jeancarlbisson/how-to-train-your-tjbot-in-node-red-88bfb3bbe0ab) where he explains how to setup and use his Node-Red nodes with YouTube videos and ready-to-use code.
+
+You can reach him on [Github node-red-contrib-tjbot Repository](https://github.com/jeancarl/node-red-contrib-tjbot).
+
 ## Segrate Alternanza Scuola Lavoro May 2018
 *.... to be completed...*
 [Node-Red Labs with TJBot!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Segrate_ASL2018)
