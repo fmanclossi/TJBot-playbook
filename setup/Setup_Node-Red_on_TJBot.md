@@ -65,5 +65,21 @@ JeanCarl also created a wonderful [Medium series on Node-Red and TJBot](https://
 
 * Point your browser to Node-Red URL (http://«TJBot_ip_address»:1880 and verify that nodes for TJBot are available.
 
+# How to use JeanCarl's Nodes
+
+Drag and drop a TJBot node in Node-Red and open it. Select “Add a new tjbot-config” and click the edit button.
+
+![Node Properties](Images/JCB_setup_new_TJBot_config.jpg)
+
+Your TJBot is **unique**! It has a gender, a preferred language to speak and listen. It could have a servo, a LED, a camera, a microphone and/or a speaker… and it has a **NAME**!
+
+![TJBot name](Images/My_Name_Is-Bot.TJBot.jpg)
+
+Complete required parameters. If needed, there are the links to IBM Watson Services.
+
+![TJBot parameters](Images/JCB_TJbot_Configs.jpg)
+
+**Have fun!!!**
+
 # License  
 This project uses the [Apache License Version 2.0](https://github.com/fmanclossi/TJBot-playbook/blob/master/LICENSE) software license.  
