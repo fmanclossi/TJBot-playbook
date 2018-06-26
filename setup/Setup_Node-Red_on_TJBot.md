@@ -12,6 +12,8 @@ You can reach him on [Github Repository](https://github.com/jeancarl/node-red-co
 
 JeanCarl also created a wonderful [Medium series on Node-Red and TJBot](https://medium.com/@jeancarlbisson/how-to-train-your-tjbot-in-node-red-88bfb3bbe0ab) where he explains how to setup and use his Node-Red nodes with YouTube videos and ready-to-use code.
 
+![TJBot Nodes from JeanCarl Bisson](Images/TJBot%20Lab%20-%20TJBot%20nodes%20from%20JeanCarl%20Bisson.jpg)
+
 # Setup Node-Red on TJBot
 * Upgrade Node-RED preinstalled with Raspbian Jessie using the command below.
 
