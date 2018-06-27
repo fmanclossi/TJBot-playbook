@@ -35,10 +35,9 @@ JeanCarl Bisson, an IBM Developer Advocate. ![JeanCarlBisson](https://cdn-images
 You can reach him on [Github node-red-contrib-tjbot Repository](https://github.com/jeancarl/node-red-contrib-tjbot).
 
 ## Segrate Alternanza Scuola Lavoro May 2018
-*.... to be completed...*
 [Node-Red Labs with TJBot!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Segrate_ASL2018)
 
-## *Where I can buy more time?*
+... continue...
 
 
 # License  
