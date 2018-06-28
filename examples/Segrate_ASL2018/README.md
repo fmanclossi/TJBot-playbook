@@ -4,6 +4,12 @@ This page collects TJBot activities performed with high-school students at IBM S
 
 Work with four TJBot already configured as described in [setup pages](https://github.com/fmanclossi/TJBot-playbook/tree/master/setup).
 
+## Setup requirements:
+
+* Copy [actions](Images/actions) folder to [TJbot http public path.](https://github.com/fmanclossi/TJBot-playbook/blob/master/setup/Setup_Node-Red_on_TJBot.md#setup-node-red-on-tjbot)
+
+* Copy [HTML_files](HTML_files) on students laptop.
+
 Students work in team up to 4 members with a dedicated TJBot. Smaller groups are better, of course.
 
 ## Step 1 - Introduce TJBot
@@ -41,7 +47,7 @@ Then show that Node-Red is just connect nodes with tubes. Nodes can be used to i
 
 ### Guide students to TJBot nodes
 
-Say to insert TJ in "filter nodes" search box (left high corner of Node-Red Flow Editor) and introduce nodes available (you can also use a slide)
+Ask to insert TJ in "filter nodes" search box (left high corner of Node-Red Flow Editor) to quickly find TJBot nodes and introduce them (you can also use a slide).
 
 ![TJBot Node-Red nodes](Images/TJBot%20Lab%20-%20TJBot%20nodes%20from%20JeanCarl%20Bisson.jpg)
 
