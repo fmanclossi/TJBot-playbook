@@ -21,11 +21,11 @@ In addition, you can use an enhanced TJBot to show how much is easy to expand it
 
 ## Step 2 - Introduce Node-Red
 
-* Guide the students to connect to Node-Red flow editor pointing browser to http:<<TJBot_ip_address>>:1880
+### Guide the students to connect to Node-Red flow editor pointing browser to http:<<TJBot_ip_address>>:1880
 
 ![Point your Browser to Node-Red Flow Editor](Images/TJBot%20Lab%20-%20Node%20Reed%20Flow%20Editor.jpg)
 
-* Explain Node-Red
+### Explain Node-Red
 
 Node-RED is a flow-based development tool developed by Nick O’Leary and Dave Conway-Jones of IBM’s Emerging Technology Services group for wiring together hardware devices, APIs and online services as part of the Internet of Things. Node-RED coding is performed by a browser-based flow editor.
 
@@ -33,7 +33,41 @@ Then show that Node-Red is just connect nodes with tubes. Nodes can be used to i
 
 ![Nodes](Images/TJBot%20Lab%20-%20Node%20Red%20Nodes.jpg)
 
-Guide the student to create a simple wire using INJECT and DEBUG nodes.
+### Guide the student to create a simple wire using INJECT and DEBUG nodes.
+
+*.... to be completed...*
+
+## Step 3 - Introduce TJBot Node-Red nodes
+
+### Guide students to TJBot nodes
+
+Say to insert TJ in "filter nodes" search box (left high corner of Node-Red Flow Editor) and introduce nodes available (you can also use a slide)
+
+![TJBot Node-Red nodes](Images/TJBot%20Lab%20-%20TJBot%20nodes%20from%20JeanCarl%20Bisson.jpg)
+
+### Let's create a simple TJBot flow
+
+Suggest to use INJECT and WAVE nodes to program the most simple TJBot example.
+
+*.... to be completed...*
+
+Challenge team to create a flow that raise arm and turn BLUE the LED. (so, you can explain TJBot LED and SHINE node).
+
+*.... to be completed...*
+
+Ask to Turn LED on RED, then wave arm and finally turn off the LED.
+
+Open Question: Why I can see RED light?
+
+Introduce SLEEP node and ask to modify the flow in order to have RED light available for 2 seconds.
+
+*.... to be completed...*
+
+(if you have time, let the students free to create their own TJBot movement.
+
+![An example](Images/TJBot%20Lab%20-%20Moving%20and%20Shining.jpg)
+
+### Create a web site powered by TJBot
 
 *.... to be completed...*
 
