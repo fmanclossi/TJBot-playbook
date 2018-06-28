@@ -10,6 +10,8 @@ Work with four TJBot already configured as described in [setup pages](https://gi
 
 * Copy [HTML_files](HTML_files) on students laptop.
 
+* add a sticker to each TJBot with its own IP ADDRESS.
+
 Students work in team up to 4 members with a dedicated TJBot. Smaller groups are better, of course.
 
 ## Step 1 - Introduce TJBot
@@ -27,7 +29,9 @@ In addition, you can use an enhanced TJBot to show how much is easy to expand it
 
 ## Step 2 - Introduce Node-Red
 
-### Guide the students to connect to Node-Red flow editor pointing browser to http:<<TJBot_ip_address>>:1880
+### Node-Red Flow Editor
+
+Guide students to connect to Node-Red flow editor pointing available browser to http:<<TJBot_ip_address>>:1880
 
 ![Point your Browser to Node-Red Flow Editor](Images/TJBot%20Lab%20-%20Node%20Reed%20Flow%20Editor.jpg)
 
