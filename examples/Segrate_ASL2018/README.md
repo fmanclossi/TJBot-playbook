@@ -45,7 +45,7 @@ Then show that Node-Red is just connect nodes with tubes. Nodes can be used to i
 
 ### Guide the student to create a simple wire using INJECT and DEBUG nodes.
 
-*.... to be completed...*
+![Basic flow](Images/TJBot_basic_node_red_flow.jpg)
 
 ## Step 3 - Introduce TJBot Node-Red nodes
 
