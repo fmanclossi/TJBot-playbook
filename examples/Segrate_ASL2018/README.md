@@ -58,12 +58,11 @@ Ask to insert TJ in "filter nodes" search box (left high corner of Node-Red Flow
 ### Let's create a simple TJBot flow
 
 Suggest to use INJECT and WAVE nodes to program the most simple TJBot example.
-
-*.... to be completed...*
+![Basic TJBot waving](Images/TJBot_wave.jpg)
 
 Challenge team to create a flow that raise arm and turn BLUE the LED. (so, you can explain TJBot LED and SHINE node).
 
-*.... to be completed...*
+![TJBot raise arm and turn on a LED](Images/TJBot_raise_arm_turn_led_blue.jpg)
 
 Ask to Turn LED on RED, then wave arm and finally turn off the LED.
 
