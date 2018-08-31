@@ -37,6 +37,12 @@ You can reach him on [Github node-red-contrib-tjbot Repository](https://github.c
 ## Segrate Alternanza Scuola Lavoro May 2018
 [Node-Red Labs with TJBot!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Segrate_ASL2018)
 
+...work in progress...
+
+[TJBot and his/her dog!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
+
+...work in progress...
+
 ... continue...
 
 
