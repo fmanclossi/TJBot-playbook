@@ -30,6 +30,17 @@ In the advanced scenario, it also has two motorized front legs.
 
 [Optional and advanced part design files - PDF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy%20with%20Tail%20part2.pdf)
 
+## MINIDOGGY
+
+![MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggy_with_tail_20180903b.jpg)
+
+This little Doggy has just tail, powered by one SG-90 servo motor. No superdog vision!
+It's very easy to build 'cause it provided with A4 format. Just print it on your printer and cut, fold, connect.
+
+[MiniDoggy design files - DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.dxf)
+
+[MiniDoggy design files - PDF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.pdf)
+
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
 
 ....
