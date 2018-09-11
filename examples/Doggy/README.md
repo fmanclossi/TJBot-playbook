@@ -1,45 +1,49 @@
 # TJBot and her/his dog
 
-....................
+Doggy is the perfect companion for your TJBot. It's available in four format, expanding TJBot features and enabling funny scenarios.
 
 ![TJDog and his-her dog](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/TJBot%20and%20Doggy%20-%20advanced%20version.gif)
 
-Work with TJBot already configured as described in [setup pages](https://github.com/fmanclossi/TJBot-playbook/tree/master/setup).
+It works with TJBot already configured as described in [setup pages](https://github.com/fmanclossi/TJBot-playbook/tree/master/setup).
 
-## Setup requirements:
+## Doggy's family
 
-Doggy design is covered by a single project in DXF format.
+### DOGGY BASIC 
 
-[Doggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_A4_20180905a.dxf)
+Doggy hosts an HC-SR04 sensor that provides a superdog vision.
 
-PDF format is used to split the project to A4 printing and to cover every single configuration.
+### DOGGY STANDARD
 
-### BASIC LEVEL
+In addition to BASIC format, Doggy  has also a very cute tail, powered by one SG-90 servo motor.
 
-Doggy hosts an HC-SR04 sensor that donates it a superdog vision. Use the folloging files **BUT DO NOT CUT** tail ;)
+### DOGGY ADVANCED (PREMIUM)
 
-[Basic design files - PDF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180905a_basic_A4.pdf)
-
-### MEDIUM AND ADVANCED LEVEL
-
-Doggy has also a tail, powered by one SG-90 servo motor. You can use BASIC LEVEL design files (cutting tail parts) and optionally add a closing part to the bottom. In the advanced scenario, it also has two motorized front legs.
-In addition to previous files, download even the following one.
-
-[Optional and advanced part design files - PDF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180905a_advanced_A4.pdf)
+Doggy increases its capability with two motorized front legs.
 
 ## MINIDOGGY
 
-![MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggy_with_tail_20180903b.jpg)
+![MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggy_with_tail_20180903b.jpg){:height="50%" width="50%"}
 
 This little Doggy has just tail, powered by one SG-90 servo motor. No superdog vision!
 
 It's very easy to build 'cause it provided with A4 format. Just print it on your printer and cut, fold, connect.
 
-[MiniDoggy design files - DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.dxf)
-
-[MiniDoggy design files - PDF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.pdf)
-
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
+
+### Level: some task could be tricky but could be performed under adult’s guidance
+
+### Requirement:
+Component |Doggy Basic | Doggy Standard | Doggy Advanced (Premium) | MiniDoggy
+--------- | ---------- | -------------- | -------------- | ---------
+TJBot setup with JCBisson Node-Red nodes | Yes | Yes | Yes | Yes
+1 x HC-SR04 ultrasonic sensor for TJDog supervision  | Yes | Yes | Yes | No
+1 x SG90 servo motor for TJDog tail | No | Yes | Yes | Yes
+2 x SG90 servo motor for TJDog front legs | No | No | Yes | No
+1 x Breadboard | No | Optional | Yes | No
+Cables, Cardboard, stapler, marking pens, scotch tape | Yes | Yes | Yes | Yes
+
+
+
 
 ....
 
