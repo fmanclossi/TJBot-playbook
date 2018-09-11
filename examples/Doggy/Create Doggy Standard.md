@@ -23,7 +23,7 @@ Doggy is the perfect companion for your TJBot. DOGGY Standard hosts an HC-SR04 s
 
 * Mount servo motor for tail (do not mount tail now, the right position will to be identified during software setup)
 
-[Basic with servo mounted - and eyes not cut](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/08.Doggy%20-%20basic%20with%20tail%20servo%20mounted.jpg)
+![Basic with servo mounted - and eyes not cut](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/08.Doggy%20-%20basic%20with%20tail%20servo%20mounted.jpg)
 
 (notice that I forgot to cut eyes)
 
