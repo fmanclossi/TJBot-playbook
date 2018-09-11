@@ -20,7 +20,7 @@ In addition to BASIC format, Doggy  has also a very cute tail, powered by one SG
 
 Doggy increases its capability with two motorized front legs.
 
-## MINIDOGGY
+### MINIDOGGY
 
 ![MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggy_with_tail_20180903b.jpg)
 
@@ -28,11 +28,9 @@ This little Doggy has just tail, powered by one SG-90 servo motor. No superdog v
 
 It's very easy to build 'cause it provided with A4 format. Just print it on your printer and cut, fold, connect.
 
-# HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
+## Level: some task could be tricky but could be performed under adult’s guidance
 
-### Level: some task could be tricky but could be performed under adult’s guidance
-
-### Requirements:
+## Requirements:
 Component |Doggy Basic | Doggy Standard | Doggy Advanced (Premium) | MiniDoggy
 --------- | ---------- | -------------- | -------------- | ---------
 TJBot setup with [JCBisson Node-Red nodes](https://github.com/fmanclossi/TJBot-playbook#jeancarl-node-red-examples) | Yes | Yes | Yes | Yes
@@ -61,14 +59,21 @@ Cables, Cardboard, stapler, marking pens, scotch tape | Yes | Yes | Yes | Yes
 
 [Doggy gets animated legs, too](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Create%20Doggy%20Premium.md)
 
-### MiniDoggy Basic - Tiny dog with the cutest tail in the world
+### MiniDoggy - Tiny dog with the cutest tail in the world
 
 [Easier and cutest Doggy version](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Create%20MiniDoggy.md)
 
 ....
 
-[Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
+## Configure Doggy's
 
+...
+
+## Credits
+
+...
+
+# HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
 
 # License  
 This project uses the [Apache License Version 2.0](../../LICENSE) software license.  
