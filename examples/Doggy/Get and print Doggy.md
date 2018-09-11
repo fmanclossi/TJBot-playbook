@@ -4,8 +4,6 @@ Doggy is the perfect companion for your TJBot. It's available in four format, ex
 
 ![TJDog and his-her dog](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/TJBot%20and%20Doggy%20-%20advanced%20version.gif)
 
-# HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
-
 ## Get and Print/Copy your preferred TJBot companion
 
 ### Get the last design file from [Doggy Github house](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy/Design_files)
@@ -69,6 +67,10 @@ No need for "Belly" part (but if you like it, just fold it and insert mounting s
 
  
 ....
+
+[Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
+
+# HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
 
 # License  
 This project uses the [Apache License Version 2.0](../../LICENSE) software license.  
