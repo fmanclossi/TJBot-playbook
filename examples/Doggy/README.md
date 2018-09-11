@@ -42,7 +42,7 @@ TJBot setup with [JCBisson Node-Red nodes](https://github.com/fmanclossi/TJBot-p
 1 x Breadboard | No | Optional | Yes | No
 Cables, Cardboard, stapler, marking pens, scotch tape | Yes | Yes | Yes | Yes
 
-## Build your preferred TJBot companion
+## Get and Print/Copy your preferred TJBot companion
 
 ### Get the last design file from [Doggy Github house](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy/Design_files)
 
@@ -104,9 +104,9 @@ MiniDoggy can be easily printed on 200gr/m² A4 paper (local print shop or stand
 No need for "Belly" part (but if you like it, just fold it and insert mounting servo on it). Belly part is mandatory if you use standard printer paper.
 
  
-### Mount your Doggy
+## Mount your Doggy
 
-#### Doggy Basic - Superdog vision only
+### Doggy Basic - Superdog vision only
 
 * Print/reproduce only the Tail and advanced Sheet
 
@@ -129,17 +129,15 @@ No need for "Belly" part (but if you like it, just fold it and insert mounting s
 ![Folded up and down](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/03.Doggy%20folded.jpg)
 (I’m folded up and down)
 
+* stapple left and right ears
+
 ![stapple left ears](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/04.Doggy%20-%20stapple%20left%20ear.jpg)
 
 ![stapple right ears](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/05.Doggy%20-%20stapple%20right%20ear.jpg)
 
-* stapple left and right ears
+* stapple neck and back
 
 ![stapple neck and back](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/06.Doggy%20-%20folded%20and%20stappled.jpg)
-
-* stapple neck and back
- 
-![insert tongue and clip the tail]()
 
 * insert tongue and clip the tail
 
