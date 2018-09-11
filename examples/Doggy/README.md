@@ -106,7 +106,38 @@ No need for "Belly" part (but if you like it, just fold it and insert mounting s
  
 ### Mount your Doggy
 
+#### Doggy Basic - Superdog vision only
 
+1. Print/reproduce only the Tail and advanced Sheet
+
+1. cut all the red lines using a cutter and a scissor (do not cut parts to host servo motor for tail). If you plan to use superdog vision, remind to cut eyes too.
+ 
+(P.S: in the following pictures these lines are cut as used in Standard and Advanced version)
+1. fold up or down green and green lines
+  (fold up)
+  (fold down)
+(I’m folded up and down)
+
+1. stapple left and right ears
+      
+1. stapple neck and back
+ 
+1. insert tongue and clip the tail
+
+(notice neck and back staple)
+
+1. wire HC-SR04 sensor to TJBot (no need for breadboard)
+
+Description	 | From TJBot to Doggy’s eyes
+----------- | --------------------------
+Type of connectors | Female to Female
+Pin 25 - Ground | Blue to Ground
+Pin 23 - GPIO 11 - Echo | Green to Echo
+Pin 21 - GPIO 09 - Trigger | Yellow to Trigger
+Pin 4 - 5V | Orange to VCC
+WARNING: pay attention to connect the right PINs to avoid damages to components.
+
+1. enjoy your Doggy Basic
 
 
 ....
