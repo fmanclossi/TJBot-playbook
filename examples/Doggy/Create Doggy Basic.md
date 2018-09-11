@@ -1,4 +1,4 @@
-# TJBot and her/his dog
+# Mount Doggy Basic - a TJBot companion with superdog vision!
 
 Doggy is the perfect companion for your TJBot. DOGGY BASIC hosts an HC-SR04 sensor that provides a superdog vision.
 
@@ -10,9 +10,7 @@ Doggy is the perfect companion for your TJBot. DOGGY BASIC hosts an HC-SR04 sens
 
 ## Get and Print/Copy DOGGY BASIC design file
 
-## Mount your Doggy
-
-### Doggy Basic - Superdog vision only
+## Mount your Doggy Basic
 
 * Print/reproduce only the Tail and advanced Sheet
 
