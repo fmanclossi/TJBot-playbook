@@ -66,7 +66,7 @@ Description | From TJBot | From Doggy’s eyes | From Doggy’s tail | From Dogg
 Type of connectors | Female to Male | Male to Female | Male to Male | Male to Male | Male to Male
 Pin 38 - GPIO 20 - Data servo motor (right Doggy’s arm) | Green |  |  |  | Violet to Orange (data servo motor)
 Pin 40 - GPIO 21 - Data servo motor (left Doggy’s arm) | Yellow |  |  | Violet to Orange (data servo motor)	 | 
-Pin 25 - Ground	Blue | Blue to Ground | Brown to Brown (Ground) | Brown to Brown (Ground) | Brown to Brown (Ground)
+Pin 25 - Ground | Blue | Blue to Ground | Brown to Brown (Ground) | Brown to Brown (Ground) | Brown to Brown (Ground)
 Pin 23 - GPIO 11 - Echo | Violet | Green to Echo |  |  | 
 Pin 21 - GPIO 09 - Trigger | Gray | Yellow to Trigger |  | 	 | 
 Pin 4 - 5V | White | Orange to VCC | Red to Red (5V) | Red to Red (5V) | Red to Red (5V)
