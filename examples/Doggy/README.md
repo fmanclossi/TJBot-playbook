@@ -120,22 +120,30 @@ No need for "Belly" part (but if you like it, just fold it and insert mounting s
 
 * fold up or down green and green lines
 
-https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/Fold%20up.jpg
+![fold up](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/Fold%20up.jpg)
   (fold up)
 
-https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/Fold%20down.jpg
+![fold down](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/Fold%20down.jpg)
 (fold down)
 
-https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/03.Doggy%20folded.jpg
+![Folded up and down](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/03.Doggy%20folded.jpg)
 (I’m folded up and down)
 
+![stapple left ears](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/04.Doggy%20-%20stapple%20left%20ear.jpg)
+
+![stapple right ears](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/05.Doggy%20-%20stapple%20right%20ear.jpg)
+
 * stapple left and right ears
-      
+
+![stapple neck and back](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/06.Doggy%20-%20folded%20and%20stappled.jpg)
+
 * stapple neck and back
  
+![insert tongue and clip the tail]()
+
 * insert tongue and clip the tail
 
-(notice neck and back staple)
+![basic doggy empty](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/09.Doggy%20-%20basic%20with%20tongue.jpg)
 
 * wire HC-SR04 sensor to TJBot (no need for breadboard)
 
@@ -151,6 +159,7 @@ Pin 4 - 5V | Orange to VCC
 
 * enjoy your Doggy Basic
 
+![enjoy doggy basic](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/09b.Doggy%20basic%20shape%20with%20tongue.jpg)
 
 ....
 
