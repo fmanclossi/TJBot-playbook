@@ -44,14 +44,14 @@ Cables, Cardboard, stapler, marking pens, scotch tape | Yes | Yes | Yes | Yes
 
 ## Get and Print/Copy your preferred TJBot companion
 
-[Get updated design files and feedback from Doggy's fan](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Get%20and%20print%20Doggy)
+[Get updated design files and feedback from Doggy's fan](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Get%20and%20print%20Doggy.md)
 
  
 ## Mount your Doggy
 
 ### Doggy Basic - Superdog vision only
 
-[Start with the original Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Create%20Doggy%20Basic)
+[Start with the original Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Create%20Doggy%20Basic.md)
 
 ....
 
