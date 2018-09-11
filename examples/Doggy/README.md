@@ -44,120 +44,14 @@ Cables, Cardboard, stapler, marking pens, scotch tape | Yes | Yes | Yes | Yes
 
 ## Get and Print/Copy your preferred TJBot companion
 
-### Get the last design file from [Doggy Github house](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy/Design_files)
-
-* Doggy Basic - Superdog vision only
-
-   * [Doggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_A4_20180908a.dxf)
-
-   * [Doggy PDF format - basic parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_basic_A4.pdf)
-
-* Doggy Standard - Basic plus ultra-dynamic tail
-
-   * [Doggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_A4_20180908a.dxf)
-
-   * [Doggy PDF format - basic parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_basic_A4.pdf)
-
-* Doggy Premium - Standard plus powerful front legs
-
-   * [Doggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_A4_20180908a.dxf)
-
-   * [Doggy PDF format - basic parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_basic_A4.pdf)
-
-   * [Doggy PDF format - Optional and advanced parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_advanced_A4.pdf)
-
-* MiniDoggy - ultra-dinamic tail only
-
-   * [MiniDoggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.dxf)
-
-   * [MiniDoggy PDF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.pdf)
-
-### Print or Copy the design file on selected support
-
-Please, share your experience on [Doggy's House](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)!!!
- 
-* Doggy Basic - Superdog vision only
-
-Do not use common printer paper. 
-Doggy Basic can be easily printed on 200gr/m² A4 paper (local print shop or standard printer) or cardboard.
-200gr/m² A4 paper is enough strong to support sensor weight.
-No need for "Belly" part (but if you like it, just fold and insert it).
-
-* Doggy Standard - Basic plus ultra-dinamic tail
-
-Do not use common printer paper. 
-Doggy Standard can be easily printed on 200gr/m² A4 paper (local print shop or standard printer) or cardboard.
-200gr/m² A4 paper is enough strong to support sensor weight.
-"Belly" part is optional, depending upon wiring choices (but if you like it, just fold and insert it).
-
-* Doggy Premium - Standard plus powerful front legs
-
-Do not use common printer paper. 
-Doggy Standard can be easily printed on 200gr/m² A4 paper (local print shop or standard printer) or cardboard.
-200gr/m² A4 paper is enough strong to support sensor weight.
-"Belly" part is mandatory. It could be printed on 200gr/m² A4 paper, but cardboard is the best choice.
-
-* MiniDoggy - ultra-dynamic tail only
-
-MiniDoggy can be easily printed on 200gr/m² A4 paper (local print shop or standard printer)
-200gr/m² A4 paper is enough strong to support servo motor weight.
-No need for "Belly" part (but if you like it, just fold it and insert mounting servo on it). Belly part is mandatory if you use standard printer paper.
+[Get updated design files and feedback from Doggy's fan](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Get%20and%20print%20Doggy)
 
  
 ## Mount your Doggy
 
 ### Doggy Basic - Superdog vision only
 
-* Print/reproduce only the Tail and advanced Sheet
-
-![design file to print](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/01.Doggy%20printed%20sheets%20-%20first.jpg)
-
-* cut all the red lines using a cutter and a scissor (do not cut parts to host servo motor for tail). If you plan to use superdog vision, remind to cut eyes too.
-
-![Doggy Basic do not cut tail parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/01.Doggy%20printed%20sheets%20-%20first%20_%20do%20not%20cut%20tail%20parts.jpg)
-
-(P.S: in the following pictures these lines are cut as used in Standard and Advanced version)
-
-* fold up or down green and green lines
-
-![fold up](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/Fold%20up.jpg)
-  (fold up)
-
-![fold down](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/Fold%20down.jpg)
-(fold down)
-
-![Folded up and down](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/03.Doggy%20folded.jpg)
-(I’m folded up and down)
-
-* stapple left and right ears
-
-![stapple left ears](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/04.Doggy%20-%20stapple%20left%20ear.jpg)
-
-![stapple right ears](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/05.Doggy%20-%20stapple%20right%20ear.jpg)
-
-* stapple neck and back
-
-![stapple neck and back](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/06.Doggy%20-%20folded%20and%20stappled.jpg)
-
-* insert tongue and clip the tail
-
-![basic doggy empty](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/09.Doggy%20-%20basic%20with%20tongue.jpg)
-
-* wire HC-SR04 sensor to TJBot (no need for breadboard)
-
-Description	 | From TJBot to Doggy’s eyes
------------ | --------------------------
-Type of connectors | Female to Female
-Pin 25 - Ground | Blue to Ground
-Pin 23 - GPIO 11 - Echo | Green to Echo
-Pin 21 - GPIO 09 - Trigger | Yellow to Trigger
-Pin 4 - 5V | Orange to VCC
-
-**WARNING: pay attention to connect the right PINs to avoid damages to components.**
-
-* enjoy your Doggy Basic
-
-![enjoy doggy basic](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/09b.Doggy%20basic%20shape%20with%20tongue.jpg)
+[Start with the original Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Create%20Doggy%20Basic)
 
 ....
 
