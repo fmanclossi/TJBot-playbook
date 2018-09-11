@@ -53,6 +53,18 @@ Cables, Cardboard, stapler, marking pens, scotch tape | Yes | Yes | Yes | Yes
 
 [Start with the original Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Create%20Doggy%20Basic.md)
 
+### Doggy Standard - Superdog vision and a very cute tail
+
+[Add a unstoppable tail](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Create%20Doggy%20Standard.md)
+
+### Doggy Premium - Superdog vision, a dynamic tail and two strong front legs
+
+[Doggy gets animated legs, too](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Create%20Doggy%20Premium.md)
+
+### MiniDoggy Basic - Tiny dog with the cutest tail in the world
+
+[Easier and cutest Doggy version](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Create%20MiniDoggy.md)
+
 ....
 
 [Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
