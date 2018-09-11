@@ -48,33 +48,33 @@ Cables, Cardboard, stapler, marking pens, scotch tape | Yes | Yes | Yes | Yes
 
 * Doggy Basic - Superdog vision only
 
-[Doggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_A4_20180908a.dxf)
+   * [Doggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_A4_20180908a.dxf)
 
-[Doggy PDF format - basic parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_basic_A4.pdf
+   * [Doggy PDF format - basic parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_basic_A4.pdf)
 
 * Doggy Standard - Basic plus ultra-dynamic tail
 
-[Doggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_A4_20180908a.dxf)
+   * [Doggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_A4_20180908a.dxf)
 
-[Doggy PDF format - basic parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_basic_A4.pdf
+   * [Doggy PDF format - basic parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_basic_A4.pdf)
 
 * Doggy Premium - Standard plus powerful front legs
 
-[Doggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_A4_20180908a.dxf)
+   * [Doggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_A4_20180908a.dxf)
 
-[Doggy PDF format - basic parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_basic_A4.pdf
+   * [Doggy PDF format - basic parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_basic_A4.pdf)
 
-[Doggy PDF format - Optional and advanced parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_advanced_A4.pdf)
+   * [Doggy PDF format - Optional and advanced parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_advanced_A4.pdf)
 
 * MiniDoggy - ultra-dinamic tail only
 
-[MiniDoggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.dxf)
+   * [MiniDoggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.dxf)
 
-[MiniDoggy PDF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.pdf)
+   * [MiniDoggy PDF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.pdf)
 
 ### Print or Copy the design file on selected support
 
-(share your experience on https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
+Please, share your experience on [Doggy's House](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)!!!
  
 * Doggy Basic - Superdog vision only
 
