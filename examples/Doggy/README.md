@@ -110,16 +110,24 @@ No need for "Belly" part (but if you like it, just fold it and insert mounting s
 
 * Print/reproduce only the Tail and advanced Sheet
 
+https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/01.Doggy%20printed%20sheets%20-%20first.jpg
+
 * cut all the red lines using a cutter and a scissor (do not cut parts to host servo motor for tail). If you plan to use superdog vision, remind to cut eyes too.
- 
+
+
+https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/01.Doggy%20printed%20sheets%20-%20first%20_%20do%20not%20cut%20tail%20parts.jpg
+
 (P.S: in the following pictures these lines are cut as used in Standard and Advanced version)
 
 * fold up or down green and green lines
 
+https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/Fold%20up.jpg
   (fold up)
 
+https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/Fold%20down.jpg
 (fold down)
 
+https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/03.Doggy%20folded.jpg
 (I’m folded up and down)
 
 * stapple left and right ears
