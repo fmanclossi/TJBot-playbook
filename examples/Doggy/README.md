@@ -22,7 +22,7 @@ Doggy increases its capability with two motorized front legs.
 
 ## MINIDOGGY
 
-![MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggy_with_tail_20180903b.jpg){:height="50%" width="50%"}
+![MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggy_with_tail_20180903b.jpg?s=100)
 
 This little Doggy has just tail, powered by one SG-90 servo motor. No superdog vision!
 
