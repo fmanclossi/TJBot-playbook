@@ -1,12 +1,10 @@
-# TJBot and her/his dog
+# Get and Print/Copy your preferred TJBot companion
 
 Doggy is the perfect companion for your TJBot. It's available in four format, expanding TJBot features and enabling funny scenarios.
 
 ![TJDog and his-her dog](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/TJBot%20and%20Doggy%20-%20advanced%20version.gif)
 
-## Get and Print/Copy your preferred TJBot companion
-
-### Get the last design file from [Doggy Github house](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy/Design_files)
+## Get the last design file from [Doggy Github house](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy/Design_files)
 
 * Doggy Basic - Superdog vision only
 
@@ -34,7 +32,7 @@ Doggy is the perfect companion for your TJBot. It's available in four format, ex
 
    * [MiniDoggy PDF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.pdf)
 
-### Print or Copy the design file on selected support
+## Print or Copy the design file on selected support
 
 Please, share your experience on [Doggy's House](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)!!!
  
