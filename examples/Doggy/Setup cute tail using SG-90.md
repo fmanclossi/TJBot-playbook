@@ -62,7 +62,7 @@ Using SG-90 in Node-Red is very easy!
  
 * Push "Set TAIL to RIGHT" inject node. Does tail move to Doggy's right side? If not, verify that servo is mounted as described in [provided instructions](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy#mount-your-doggy) according with your Doggy's version.
 
-* That’s all! We’re ready to buid a story with Doggy's superdog eyes!
+* That’s all! We’re ready to buid a story with Doggy's tail!
 
 ![Doggies with supereyes!](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Doggies%20with%20supereyes.jpg)
 
