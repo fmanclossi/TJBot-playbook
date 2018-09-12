@@ -73,5 +73,7 @@ Using SG-90 in Node-Red is very easy!
 
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACK are WELCOME!
 
+[Back to setup and test page](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
+
 # License  
 This project uses the [Apache License Version 2.0](../../LICENSE) software license.  
