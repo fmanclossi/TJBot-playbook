@@ -20,9 +20,9 @@ It works with TJBot already configured as described in [setup pages](https://git
 
 Doggy is very easy to build 'cause it provided with A4 format. Just print/copy it and cut, fold, connect!
 
-## Level: some task could be tricky but could be performed under adult’s guidance
+**Level: some task could be tricky but could be performed under adult’s guidance**
 
-##Print and Build your preferred Doggy
+## Print and Build your preferred Doggy
 
 [How to build Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Print%20and%20Build%20Doggy.md)
 
