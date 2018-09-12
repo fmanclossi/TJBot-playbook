@@ -24,7 +24,7 @@ Apply the following setup instuctions to your Doggy version.
 
 * Apply to: MiniDoggy, Doggy Standard, Doggy Premium
 
-[How to Setup and Test Doggy's tail (SG-90)]()
+[How to Setup and Test Doggy's tail (SG-90)](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20cute%20tail%20using%20SG-90.md)
 
 ## Setup and Test Doggy front legs (SG-90)
 
