@@ -44,5 +44,7 @@ Apply the following setup instuctions to your Doggy version.
 
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACK are WELCOME!
 
+[Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
+
 # License  
 This project uses the [Apache License Version 2.0](../../LICENSE) software license.  
