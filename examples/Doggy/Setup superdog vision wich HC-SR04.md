@@ -42,7 +42,7 @@ Using HC-SR04 in Node-Red is very easy!
    
    ![Configure RPI-SRF Node](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/3.configure%20rpi-srf%20node.png)
    
-   * push DEPLOY button and verify that in the DEBUG area you'll get the distance between Doggy's head and an obstacle.
+   * push DEPLOY button and verify that in the DEBUG area you'll get the distance (in centimeters) between Doggy's head and an obstacle.
    
    ![HC-R04 test flow](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/4.configure%20and%20test%20superdog%20vision.png)
  
