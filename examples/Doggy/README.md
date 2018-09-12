@@ -33,7 +33,7 @@ It's very easy to build 'cause it provided with A4 format. Just print it on your
 ## Requirements:
 Component |Doggy Basic | Doggy Standard | Doggy Advanced (Premium) | MiniDoggy
 --------- | ---------- | -------------- | -------------- | ---------
-TJBot setup with [JCBisson Node-Red nodes](https://github.com/fmanclossi/TJBot-playbook#jeancarl-node-red-examples) | Yes | Yes | Yes | Yes
+TJBot setup with [JCBisson Node-Red nodes](https://github.com/fmanclossi/TJBot-playbook/blob/master/setup/Setup_Node-Red_on_TJBot.md) | Yes | Yes | Yes | Yes
 1 x HC-SR04 ultrasonic sensor for TJDog supervision  | Yes | Yes | Yes | No
 1 x SG90 servo motor for TJDog tail | No | Yes | Yes | Yes
 2 x SG90 servo motor for TJDog front legs | No | No | Yes | No
