@@ -35,10 +35,12 @@ Using SG-90 in Node-Red is very easy!
    * press CLOSE to return to Node-Red dashboard.
    
 * **take away Doggy's legs.** We have to set the right position to avoid damages to them.
+
+![Doggy without front legs](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Doggy%20Premium%20tune%20arms%20positions.jpg)
    
 * tune legs position creating the following flow using PI-GPIOD and INJECT nodes
 
-   * drag four times INJECT node to working area (you'll get three nodes); drag twice PI-GPIOD node, too (You'll get two nodes). Connect two INJECT nodes per PI-GPIOD.
+   * drag four times INJECT node to working area (you'll get four nodes); drag twice PI-GPIOD node, too (You'll get two nodes). Connect two INJECT nodes per PI-GPIOD.
    
    ![front legs tune flow unset](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/9a-Setup%20front%20legs%20flow%20%20not%20configured.jpg)
         
