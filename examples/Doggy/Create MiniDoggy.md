@@ -65,7 +65,7 @@ Pin 24 - GPIO 08 - Data servo motor (tail) | Black | Yellow to Orange (Data serv
 
 ![tail #2](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/25.Doggy%20tail%20version2.jpg)
 
-* enjoy your MiniDoggy
+* insert tongue and enjoy your MiniDoggy
 
 ![enjoy MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/MiniDoggy%20finished.jpg)
 
