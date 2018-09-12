@@ -16,7 +16,7 @@ It works with TJBot already configured as described in [setup pages](https://git
 
 * MINIDOGGY - This little Doggy has just tail, powered by one SG-90 servo motor. No superdog vision!
 
-![MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggy_with_tail_20180903b.jpg)
+![MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/MiniDoggy%20finished.jpg)
 
 Doggy is very easy to build 'cause it provided with A4 format. Just print/copy it and cut, fold, connect!
 
