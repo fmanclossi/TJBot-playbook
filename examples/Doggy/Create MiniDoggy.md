@@ -1,6 +1,6 @@
 # TJBot and her/his dog
 
-MiniDoggy is a tiny and cute companion for your TJBot. MiniDoggy hosts an SG-90 servo motor to bring to life a never-stopping tail.
+MiniDoggy is a tiny and cute companion for your TJBot. MiniDoggy hosts an SG-90 servo motor to bring a never-stopping tail to life.
 
 ### Level: some task could be tricky but could be performed under adult’s guidance
 
