@@ -18,7 +18,7 @@ Apply the following setup instuctions to your Doggy version.
 
 * Apply to: Doggy Basic, Doggy Standard, Doggy Premium
 
-[How to Setup and Test Doggy superdog vision (HC-SR04)]()
+[How to Setup and Test Doggy superdog vision (HC-SR04)](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20superdog%20vision%20wich%20HC-SR04.md)
 
 ## Setup and Test Doggy tail (SG-90)
 
