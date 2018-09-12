@@ -67,7 +67,7 @@ Cables, Cardboard, stapler, marking pens, scotch tape | Yes | Yes | Yes | Yes
 
 ## Configure Doggy's
 
-[How to setup and test Dogg's features](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
+[How to setup and test Doggy's features](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
 
 ## Let's show!
 ...
