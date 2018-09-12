@@ -14,7 +14,7 @@ Using SG-90 in Node-Red is very easy!
 
 * verify that TJBot is fully functional and node-red is working as expected.
 
-* install node-red-node-pisrf node to manage HC-SR04 and superdog vision. 
+* install node-red-node-pi-gpiod node to manage SG-90 servo motor. 
 
    * open Node-Red Dashboard.
    
