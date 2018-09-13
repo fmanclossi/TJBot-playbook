@@ -26,7 +26,7 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 * create a new Flow
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/ t01s01.Create.New.Flow.jpg)
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s01.Create.New.Flow.jpg)
 
 * double-click Flow label and rename it to “Tale1.Scene1”. Press “Done” to close.
 
