@@ -6,7 +6,7 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 [Back to the previous Scene - Tale1.Scene2 – Make Doggy barking (a real barking!) if an object is less than 30cm away](Tale1.Scene2.BARKING.md)
 
-## Tale1.Scene3 – Smart barking, just one time, please!](Tale1.Scene3.Smart.BARKING.md
+## Tale1.Scene3 – Smart barking, just one time, please!
 
 **Requirement:** TJBot, Doggy (Basic, Standard or Premium) – [already setup and tested] (https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
 
