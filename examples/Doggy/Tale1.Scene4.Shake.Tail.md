@@ -42,15 +42,15 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 * (MiniDoggy only) drag INJECT node to Working area. Double-click it and configure as in following picture
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/ t01s41.Configure.INJECT.Simulating.Eyes.Nodes.jpg)
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s41.Configure.INJECT.Simulating.Eyes.Nodes.jpg)
 
 * (MiniDoggy only) drag RANDOM node to Working area. Double-click it and configure as in following picture
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/ t01s42.Configure.RANDOM.Distance.Measurement.Nodes.jpg)
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s42.Configure.RANDOM.Distance.Measurement.Nodes.jpg)
 
 * rearrange and connect nodes
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/ t01s43.Arrange.Nodes.jpg)
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s43.Arrange.Nodes.jpg)
 
 * drag LOOPTIMER node to Working area. Configure it to fire 30 times, every 0.2 seconds.
 
@@ -58,15 +58,15 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 * drag RANDOM node to Working area. Configure it to send an integer between 0 and 100.
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/ t01s45.Configure.RANDOM.Tail.Position.Nodes.jpg)
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s45.Configure.RANDOM.Tail.Position.Nodes.jpg)
 
 * drag PI-GPIOD node to Working Area and configure it to PIN 24 (GPIO 8)
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/ t01s46.Configure.PI-GPIOD.TAIL.PIN24.Nodes.jpg)
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s46.Configure.PI-GPIOD.TAIL.PIN24.Nodes.jpg)
 
 * connect and rearrange, if needed, as show in the following picture
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/ t01s47.Tail.Animated.Flow.Completed.jpg)
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s47.Tail.Animated.Flow.Completed.jpg)
 
 * press DEPLOY button
 
@@ -74,13 +74,13 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 What happens when you press “Simulated Doggy’s Eyes” INJECT node?
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/ t01s48.MiniDoggy.Test.Tail.Animated.Flow.Completed.jpg)
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s48.MiniDoggy.Test.Tail.Animated.Flow.Completed.jpg)
 
 Why the tail shakes only some time and not always?
 
 HINT: add a debug node to show “Simulated Distance Measurement” output. Call it “Distance” and press DEPLOY. Press again “Simulated Doggy’s Eyes” INJECT node 
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/ t01s49.MiniDoggy.Test.Random.Tail.Animated.Flow.Completed.jpg)
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s49.MiniDoggy.Test.Random.Tail.Animated.Flow.Completed.jpg)
 
 **(Doggy version only)**
 
