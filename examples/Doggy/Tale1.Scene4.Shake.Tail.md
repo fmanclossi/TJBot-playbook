@@ -54,7 +54,7 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 * drag LOOPTIMER node to Working area. Configure it to fire 30 times, every 0.2 seconds.
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s44.Configure.LOOPTIMER.Nodes.jpg>
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s44.Configure.LOOPTIMER.Nodes.jpg)
 
 * drag RANDOM node to Working area. Configure it to send an integer between 0 and 100.
 
