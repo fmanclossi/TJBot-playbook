@@ -4,7 +4,7 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 ## Tale1.Scene1 - Create a flow that makes Doggy say “BARK!” if an object is less than 30cm away 
 
-**Requirement:** TJBot, Doggy (Basic, Standard or Premium) – already setup and tested (https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
+**Requirement:** TJBot, Doggy (Basic, Standard or Premium) – [already setup and tested](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
 
 **Skill:** Node-Red (basic level)
 
