@@ -70,7 +70,7 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 ![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s25.Connect.CHANGE.to.SPEAK.Node.jpg)
 
-Do you get a strong barking when you put an object near to Doggy’s eyes? If not, very prerequisites (e.g. audio power turned on 😊 )
+Do you get a strong barking when you put an object near to Doggy’s eyes? If not, verify prerequisites (e.g. audio power turned on 😊 )
 
 What happen if the object stays near Doggy?
 
