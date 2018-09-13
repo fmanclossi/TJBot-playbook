@@ -80,7 +80,7 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 Excellent! But we want a strong bark not a text on dashboard.
 
-[Move to the next scene](Tale1.Scene2.BARKING.md)
+[Move to the next scene - Tale1.Scene2 – Make Doggy barking (a real barking!) if an object is less than 30cm away](Tale1.Scene2.BARKING.md)
 
 [Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
