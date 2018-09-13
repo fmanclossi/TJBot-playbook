@@ -42,8 +42,6 @@ We follow TJBot and its doggies in some [funny stories](https://github.com/fmanc
 
 [How to setup and test Doggy's features](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
 
-## Let's show!
-...
 
 ## Credits
 
