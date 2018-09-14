@@ -67,8 +67,6 @@ What happen if the object stays away from Doggy?
 
 What happen if the object stays in front of Doggy’s eyes?
 
-**Challenge time!** Are you able to change how Doggy react to object? When no object is close to Doggy, it stand up watching for enemy 😊 When object is less than 30cm away, it goes on its belly and shake its tale.
-
 **Anyone scared by Doggy? Don't panic! It's a cute dog.**
 
 [Move to Tale of two doggies MAIN INDEX](Tales%20of%20two%20doggies.md)
