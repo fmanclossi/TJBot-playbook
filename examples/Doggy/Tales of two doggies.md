@@ -35,7 +35,9 @@ It’s time to introduce TJBot in our tale!
 
 * [Tale1.Scene5 - Stand Up, Doggy](Tale1.Scene5.StandUp.Doggy.md) - Doggy stands up on its front legs when anything is less that 30cm away
 
-**We Need You:** Submit your scenes to expand Doggy's behaviour :)
+**Challenge time!** Are you able to change how Doggy react to object? When no object is close to Doggy, it stand up watching for enemy 😊 When object is less than 30cm away, it goes on its belly and shake its tale.
+
+### We Need You: Submit your scenes to expand Doggy's behaviour :)
 
 [Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
