@@ -31,8 +31,11 @@ Funny? I **challenge you** to mix scene3 and scene4 elements to make Doggy barki
 **Fantastic! Doggy is growing up smarter, step by step!**
 It’s time to introduce TJBot in our tale!
 
+### Extra scenes
 
-... working on ....
+* [Tale1.Scene5 - Stand Up, Doggy](Tale1.Scene5.StandUp.Doggy.md) - Doggy stands up on its front legs when anything is less that 30cm away
+
+**We Need You:** Submit your scenes to expand Doggy's behaviour :)
 
 [Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
