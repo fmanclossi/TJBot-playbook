@@ -59,6 +59,8 @@ Change #4 | Set DOGGY RIGHT ARM to UP | 100
 
 * press DEPLOY button
 
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.StandUp.Doggy.animated.gif)
+
 What happen when an obstacle reaches Doggy?
 
 What happen if the object stays away from Doggy?
