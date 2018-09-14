@@ -24,7 +24,8 @@ We already known that Doggy is a very careful watchdog. Nothing and no one can p
 
 * [Tale1.Scene4 – Shake a tail! Shake it, shake it, shake it Doggy!](Tale1.Scene4.Shake.Tail.md)
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s04.Shake.Tail.animated.gif)
+
+![Stand Up, Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s04.Shake.Tail.animated.gif)
 
 Funny? I **challenge you** to mix scene3 and scene4 elements to make Doggy barking and shaking tail when an object is near than 30cm. Ready… Steady… GO!
 
