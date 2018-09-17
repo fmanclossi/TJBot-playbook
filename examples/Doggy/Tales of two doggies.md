@@ -12,6 +12,22 @@ In the following scenarios, we follow TJBot and its doggies in some funny storie
 
 Every tale includes Doggy requirement, Skills, Age, Knowledge acquired and preparaton steps.
 
+## Tales available:
+
+*   [TALE 1 – Doggy barks and shake its tail if an object is less than 30cm away](Tales%20of%20two%20doggies.md#tale-1--doggy-barks-and-shake-its-tail-if-an-object-is-less-than-30cm-away)
+
+* [TALE 2 – Doggy is a greedy pet and needs to go on diet](Tales%20of%20two%20doggies.md#tale-2-–doggy-is-a-greedy-pet-and-needs-to-go-on-diet)
+
+![MiniDoggy and tea](Media/MiniDoggyReduced/MiniDoggyAnimated.gif)
+
+### We Need You! Submit your stories to expand Doggy's behaviour :)
+
+# HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
+
+[Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
+
+----
+
 ## TALE 1 – Doggy barks and shake its tail if an object is less than 30cm away
 
 We already known that Doggy is a very careful watchdog. Nothing and no one can pass without getting a strong barking and a cute tail shaking.
@@ -24,27 +40,27 @@ We already known that Doggy is a very careful watchdog. Nothing and no one can p
 
 * [Tale1.Scene4 – Shake a tail! Shake it, shake it, shake it Doggy!](Tale1.Scene4.Shake.Tail.md)
 
-
-![Stand Up, Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s04.Shake.Tail.animated.gif)
+![Shake tail, Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s04.Shake.Tail.animated.gif)
 
 Funny? I **challenge you** to mix scene3 and scene4 elements to make Doggy barking and shaking tail when an object is near than 30cm. Ready… Steady… GO!
 
 [Click to see one of the candidate solution](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01C01.Barking.Shaking.Flow.jpg)
 
 **Fantastic! Doggy is growing up smarter, step by step!**
-It’s time to introduce TJBot in our tale!
-
-### Extra scenes
-
-* [Tale1.Scene5 - Stand Up, Doggy](Tale1.Scene5.StandUp.Doggy.md) - Doggy stands up on its front legs when anything is less that 30cm away
-
-**Challenge time!** Are you able to change how Doggy react to object? When no object is close to Doggy, it stand up watching for enemy 😊 When object is less than 30cm away, it goes on its belly and shake its tale.
 
 ### We Need You: Submit your scenes to expand Doggy's behaviour :)
 
-[Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
+## TALE 2 – Doggy is a greedy pet and needs to go on diet
 
-# HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
+Doggy is a cute pet... sweet tooth, too. Cake, ice creams but also hamburgers, chips, pizza and pasta! It needs to go on diet!
+
+* [Tale2.Scene1 - Stand Up, Doggy](Tale1.Scene5.StandUp.Doggy.md) - Doggy stands up on its front legs when anything is less that 30cm away
+
+* [Tale2.Scene2 – Doggy, trying to do push-ups](Tale2.Scene2.Doggy.Push-ups.md) - Doggy does push-ups when anything is less that 30cm away
+
+* [Tale2.Scene3 – TJBot helps Doggy doing exercises](Tale2.Scene3.Doggy.Exercises.md) - When anything is less that 30cm away, TJBot start counting push-ups for Doggy
+
+**Challenge time!** Are you able to ...
 
 # License  
 This project uses the [Apache License Version 2.0](../../LICENSE) software license.  
