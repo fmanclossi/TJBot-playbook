@@ -16,7 +16,7 @@ Every tale includes Doggy requirement, Skills, Age, Knowledge acquired and prepa
 
 *   [TALE 1 – Doggy barks and shake its tail if an object is less than 30cm away](Tales%20of%20two%20doggies.md#tale-1--doggy-barks-and-shake-its-tail-if-an-object-is-less-than-30cm-away)
 
-* [TALE 2 – Doggy is a greedy pet and needs to go on diet](Tales%20of%20two%20doggies.md#tale-2-–doggy-is-a-greedy-pet-and-needs-to-go-on-diet)
+* [TALE 2 – Doggy is a greedy pet and needs to go on diet](Tales%20of%20two%20doggies.md#tale-2--doggy-is-a-greedy-pet-and-needs-to-go-on-diet)
 
 ![MiniDoggy and tea](Media/MiniDoggyReduced/MiniDoggyAnimated.gif)
 
