@@ -22,7 +22,7 @@ Doggy is very easy to build 'cause it provided with A4 format. Just print/copy i
 
 **Level: some task could be tricky but could be performed under adult’s guidance**
 
-## Funny labs using Doggy
+## [Funny labs using Doggy](Tales%20of%20two%20doggies.md)
 
 TJBot loves pets even they could be noisy.
 
