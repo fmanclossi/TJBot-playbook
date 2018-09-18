@@ -103,15 +103,15 @@ Now, we have to count push-ups and start a serie only if the previous one was te
 
 * drag once CHANGE node from Palette to Working area. Modify it as shown in figure
 
-![image](https://github.com/fmanclossi/t02s02.Reset.PushUps.Count.jpg)
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Reset.PushUps.Count.jpg)
 
 * drag once SWITCH node from Palette to Working area. Modify it as shown in figure
 
-![image](https://github.com/fmanclossi/t02s02.Check.New.Serie.jpg)
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Check.New.Serie.jpg)
 
 * drag another SWITCH node from Palette to Working area. Modify it as shown in figure
 
-![image](https://github.com/fmanclossi/t02s02.Check.If.More.Pushups.jpg)
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Check.If.More.Pushups.jpg)
 
 * drag once FUNCTION node from Palette to Working area. Modify it as shown in figure, inserting the following code that set/incrase pushups count:
 
@@ -120,7 +120,7 @@ myCount += 1;
 flow.set("pushups", myCount);
 return msg;`
 
-![image](https://github.com/fmanclossi/t02s02.Increase.Pushups.Count.jpg)
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Increase.Pushups.Count.jpg)
 
 * drag once DELAY node from Palette to Working area. Set delay to 2 seconds.
 
