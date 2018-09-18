@@ -113,11 +113,14 @@ Now, we have to count push-ups and start a serie only if the previous one was te
 
 ![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Check.If.More.Pushups.jpg)
 
-* drag once FUNCTION node from Palette to Working area. Modify it as shown in figure, inserting the following code that set/incrase pushups count:
+* drag once FUNCTION node from Palette to Working area. Modify it as shown in figure, inserting the following code that set/increase pushups count:
 
 `var myCount = flow.get("pushups") || 0;
+
 myCount += 1;
+
 flow.set("pushups", myCount);
+
 return msg;`
 
 ![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Increase.Pushups.Count.jpg)
@@ -134,9 +137,6 @@ return msg;`
 
 What happen when an obstacle reaches Doggy?
 
-What happen if the object stays away from Doggy?
-
-What happen if the object stays in front of Doggy’s eyes?
 
 **Anyone scared by Doggy? Don't panic! It's a cute dog.**
 
