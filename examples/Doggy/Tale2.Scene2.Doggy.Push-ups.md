@@ -131,9 +131,15 @@ return msg;`
 
 ![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Doggy.PushUP.Series.Flow.jpg)
 
+* we need to instanciate count variable (**teacher/IBMers, evaluate how to introduce this concept to classroom**). Drag once INJECT node to Working area and copy "reset push-up count" node. Configure INJECT node as follow and connect nodes.
+
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Instanciate.PushUP.Series.INJECT.jpg)
+
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Instanciate.PushUP.Series.Flow.jpg)
+
 * press DEPLOY button
 
-![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s01.StandUp.Doggy.animated.gif)
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Doggy.PushUps.Animated.gif)
 
 What happen when an obstacle reaches Doggy?
 
