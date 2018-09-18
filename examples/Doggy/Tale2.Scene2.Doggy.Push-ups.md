@@ -135,7 +135,7 @@ return msg;`
 
 ![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Instanciate.PushUP.Series.INJECT.jpg)
 
-![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Instanciate.PushUP.Series.Flow.jpg)
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s02.Doggy.PushUP.Series.Flow.jpg)
 
 * press DEPLOY button
 
