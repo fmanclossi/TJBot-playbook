@@ -58,6 +58,8 @@ Doggy is a cute pet... sweet tooth, too. Cake, ice creams but also hamburgers, c
 
 * [Tale2.Scene2 – Doggy, trying to do push-ups](Tale2.Scene2.Doggy.Push-ups.md) - Doggy does push-ups when anything is less that 30cm away
 
+**Challenge time!** Doggy doesn't like to do exercises. When it start a serie, if nothing is near to it, it moves its tail instead of doing push-ups. Modify previous scene to introduce this behavior.
+
 * [Tale2.Scene3 – TJBot helps Doggy doing exercises](Tale2.Scene3.Doggy.Exercises.md) - When anything is less that 30cm away, TJBot start counting push-ups for Doggy
 
 **Challenge time!** Are you able to ...
