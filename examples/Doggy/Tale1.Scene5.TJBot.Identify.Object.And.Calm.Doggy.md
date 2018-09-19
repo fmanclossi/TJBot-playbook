@@ -89,7 +89,7 @@ Change #4 | Set DOGGY RIGHT ARM to UP | 100
    
 ![Configure SPEAK ](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.Configure.SPEAK.node.jpg)
    
-![Configure FUNCTION ](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.Configure.FUNCTION.node.jpg)
+![Configure FUNCTION ](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.Configure.FUNCTION.node.Visual.Recognition.jpg)
    
 This is the code inserted in FUNCTION to copy and paste:
 
