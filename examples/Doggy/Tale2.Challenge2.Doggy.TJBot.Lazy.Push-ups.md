@@ -37,7 +37,7 @@ What happen when you move an object in front of Doggy?
 
 ![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/TJBot.Helps.Doggy.Doing.Exercises.gif)
 
-[click to run video](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/TJBot.Helps.Doggy.Doing.Exercises_reduced.mp4)
+[click to run video from YouTube](https://youtu.be/vIt2zbiU5RU)
 
 [Move to Tale of two doggies MAIN INDEX](Tales%20of%20two%20doggies.md)
 
