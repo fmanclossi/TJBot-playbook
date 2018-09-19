@@ -24,15 +24,11 @@ Doggy is very easy to build 'cause it provided with A4 format. Just print/copy i
 
 ## [Funny labs using Doggy](Tales%20of%20two%20doggies.md)
 
-TJBot loves pets even they could be noisy.
-
-He/Her owns two dogs, Doggy and MiniDoggy.
-
-Doggy is a very careful watchdog. Nothing and no one can pass without getting a strong barking.
-
-Mini Doggy is more distracted one, it doesn’t look at what happens around it but it’s happy to play with TJBot.
+TJBot loves pets even they could be noisy. He/Her owns two dogs, Doggy and MiniDoggy. Doggy is a very careful watchdog. Nothing and no one can pass without getting a strong barking. Mini Doggy is more distracted one, it doesn’t look at what happens around it but it’s happy to play with TJBot.
 
 We follow TJBot and its doggies in some [funny stories](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Tales%20of%20two%20doggies.md) learning how IBM solutions could be applied to real life examples.
+
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02C02.TJBot.Wave.Shine.HelpingDoggy.Flow.jpg)
 
 ## Print and Build your preferred Doggy
 
