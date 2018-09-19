@@ -85,11 +85,11 @@ Change #4 | Set DOGGY RIGHT ARM to UP | 100
    
 * configure SEE, SPEAK and FUNCTION nodes as following
 
-![Configure SEE ](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.Configure.SEE.node)
+![Configure SEE ](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.Configure.SEE.node.jpg)
    
-![Configure SPEAK ](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.Configure.SPEAK.node)
+![Configure SPEAK ](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.Configure.SPEAK.node.jpg)
    
-![Configure FUNCTION ](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.Configure.FUNCTION.node)
+![Configure FUNCTION ](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.Configure.FUNCTION.node.jpg)
    
 This is the code inserted in FUNCTION to copy and paste:
 
