@@ -35,11 +35,11 @@ JeanCarl Bisson, an IBM Developer Advocate. ![JeanCarlBisson](https://cdn-images
 You can reach him on [Github node-red-contrib-tjbot Repository](https://github.com/jeancarl/node-red-contrib-tjbot).
 
 ## Segrate Alternanza Scuola Lavoro May 2018
-[Node-Red Labs with TJBot!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Segrate_ASL2018)
+### [Node-Red Labs with TJBot!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Segrate_ASL2018)
 
 ...work in progress...
 
-[TJBot and his/her dog!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
+### [TJBot and his/her dog!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
 TJBot loves pets even they could be noisy. He/Her owns two dogs, Doggy and MiniDoggy. Doggy is a very careful watchdog. Nothing and no one can pass without getting a strong barking. Mini Doggy is more distracted one, it doesn’t look at what happens around it but it’s happy to play with TJBot.
 
