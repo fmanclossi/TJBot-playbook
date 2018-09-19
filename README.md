@@ -41,10 +41,17 @@ You can reach him on [Github node-red-contrib-tjbot Repository](https://github.c
 
 [TJBot and his/her dog!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
-...work in progress...
+TJBot loves pets even they could be noisy. He/Her owns two dogs, Doggy and MiniDoggy. Doggy is a very careful watchdog. Nothing and no one can pass without getting a strong barking. Mini Doggy is more distracted one, it doesn’t look at what happens around it but it’s happy to play with TJBot.
 
-... continue...
+We follow TJBot and its doggies in some funny stories learning how IBM solutions could be applied to real life examples.
 
+Every tale includes Doggy requirement, Skills, Age, Knowledge acquired and preparaton steps.
+
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02c01.Doggy.Lazy.PushUps.Animated.gif)
+
+### We Need You! Submit your stories to expand Doggy's behaviour :)
+
+# HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
 
 # License  
 This project uses the [Apache License Version 2.0](LICENSE) software license.  
