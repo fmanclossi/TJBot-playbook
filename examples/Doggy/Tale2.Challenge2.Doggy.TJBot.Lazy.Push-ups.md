@@ -35,8 +35,11 @@ TJBot thinks that could be useful to move his/her arm while Doggy do push-ups an
 
 What happen when you move an object in front of Doggy?
 
-[image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/TJBot.Helps.Doggy.Doing .Exercises.gif)
-[click to run video](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/TJBot.Helps.Doggy.Doing .Exercises_reduced.mp4)
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/TJBot.Helps.Doggy.Doing .Exercises.gif)
+
+[click to run video](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/TJBot.Helps.Doggy.Doing.Exercises_reduced.mp4)
+
+![click to run video](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/TJBot.Helps.Doggy.Doing.Exercises_reduced.mp4)
 
 [Move to Tale of two doggies MAIN INDEX](Tales%20of%20two%20doggies.md)
 
