@@ -47,7 +47,9 @@ Doggy is a cute pet... sweet tooth, too. Cake, ice creams but also hamburgers, c
 
 ![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s03.Configure.SPEAK.Node.jpg)
 
-* * Rearrange nodes as in the following picture and press DEPLOY button. What happen when an obstacle reaches Doggy? Is TJBot in synch with Doggy execises? (**Note for Teacher/IBMers: this is a good chance to explain local vs central processing... **)
+* Rearrange nodes as in the following picture and press DEPLOY button. What happen when an obstacle reaches Doggy? Is TJBot in synch with Doggy execises? 
+
+(**Note for Teacher/IBMers: this is a good chance to explain local vs central processing... **)
 
 ![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s03.TJBot.Helps.Doggy.jpg)
 
