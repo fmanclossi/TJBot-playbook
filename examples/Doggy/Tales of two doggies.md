@@ -64,7 +64,7 @@ Doggy is a cute pet... sweet tooth, too. Cake, ice creams but also hamburgers, c
 
 * [Tale2.Scene3 – TJBot helps Doggy doing exercises](Tale2.Scene3.TJBot.Helps.Doggy.Push-ups.md) - When anything is less that 30cm away, TJBot start counting push-ups for Doggy
 
-** Challenge time:** Now, leverage on TJBot capabilities. TJBot thinks that could be useful to move his/her arm while Doggy do push-ups and to light up led to advice that a new serie is started. Are you able to modify the flow to compelte this task?
+**Challenge time:** Now, leverage on TJBot capabilities. TJBot thinks that could be useful to move his/her arm while Doggy do push-ups and to light up led to advice that a new serie is started. Are you able to modify the flow to compelte this task?
 
 [Click to see one of the candidate solution instructions](Tale2.Challenge2.Doggy.TJBot.Lazy.Push-ups.md)
 
