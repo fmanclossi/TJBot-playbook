@@ -45,17 +45,19 @@ Doggy is a cute pet... sweet tooth, too. Cake, ice creams but also hamburgers, c
 
 * configure TJBot's SPEAK node according with yout TJBot configuration (TTS credential, HW setup...) 
 
-![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s03.Create.SPEAK.Node.jpg)
+![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s03.Configure.SPEAK.Node.jpg)
 
-* press DEPLOY button. What happen when an obstacle reaches Doggy? Is TJBot in synch with Doggy execises? (**Note for Teacher/IBMers: this is a good chance to explain local vs central processing... **)
-
-* Rearrange nodes as in the following picture. Are TJBot and Doggy more synched?
+* * Rearrange nodes as in the following picture and press DEPLOY button. What happen when an obstacle reaches Doggy? Is TJBot in synch with Doggy execises? (**Note for Teacher/IBMers: this is a good chance to explain local vs central processing... **)
 
 ![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s03.TJBot.Helps.Doggy.jpg)
 
-Amazing!
+How can we get TJBot and Doggy more synched?
 
-**Anyone scared by Doggy? Don't panic! It's a cute dog.**
+(**IBMers/Teachers: try to connect Doggy subflow to a different node**)
+
+[click for one candidate solution]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02s03.TJBot.Helps.Doggy.jpg)
+
+Amazing!
 
 [Move to Tale of two doggies MAIN INDEX](Tales%20of%20two%20doggies.md)
 
