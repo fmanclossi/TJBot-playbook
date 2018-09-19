@@ -14,7 +14,7 @@ Every tale includes Doggy requirement, Skills, Age, Knowledge acquired and prepa
 
 ## Tales available:
 
-*   [TALE 1 – Doggy barks and shake its tail if an object is less than 30cm away](Tales%20of%20two%20doggies.md#tale-1--doggy-barks-and-shake-its-tail-if-an-object-is-less-than-30cm-away)
+* [TALE 1 – Doggy barks and shake its tail if an object is less than 30cm away](Tales%20of%20two%20doggies.md#tale-1--doggy-barks-and-shake-its-tail-if-an-object-is-less-than-30cm-away)
 
 * [TALE 2 – Doggy is a greedy pet and needs to go on diet](Tales%20of%20two%20doggies.md#tale-2-–doggy-is-a-greedy-pet-and-needs-to-go-on-diet)
 
@@ -47,6 +47,14 @@ Funny? I **challenge you** to mix scene3 and scene4 elements to make Doggy barki
 [Click to see one of the candidate solution](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01C01.Barking.Shaking.Flow.jpg)
 
 **Fantastic! Doggy is growing up smarter, step by step!**
+
+Let's now introduce TJBot in our story. He/She knows that Doggy barks to everything. But it's cute and he/she loves it.
+
+* [Tale1.Scene5 - TJBot wakes up when Doggy start barking and calm down Doggy](Tale1.Scene5.TJBot.Identify.Object.And.Calm.Doggy.md)
+
+![Calm down, Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.TJBot.waked.up.Calm.Down.Doggy_with_TEXT.gif)
+
+[click to run video from YouTube](https://youtu.be/5DM6FVKDyXQ)
 
 ### We Need You: Submit your scenes to expand Doggy's behaviour :)
 
