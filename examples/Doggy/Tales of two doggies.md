@@ -52,7 +52,9 @@ Funny? I **challenge you** to mix scene3 and scene4 elements to make Doggy barki
 
 ## TALE 2 – Doggy is a greedy pet and needs to go on diet
 
-Doggy is a cute pet... sweet tooth, too. Cake, ice creams but also hamburgers, chips, pizza and pasta! It needs to go on diet!
+Doggy is a cute pet... sweet tooth, too. Cake, ice creams but also hamburgers, chips, pizza and pasta! It needs to go on diet and start doing exercises!
+
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02c01.Doggy.Lazy.PushUps.Animated.gif)
 
 * [Tale2.Scene1 - Stand Up, Doggy](Tale1.Scene5.StandUp.Doggy.md) - Doggy stands up on its front legs when anything is less that 30cm away
 
@@ -67,6 +69,10 @@ Doggy is a cute pet... sweet tooth, too. Cake, ice creams but also hamburgers, c
 **Challenge time:** Now, leverage on TJBot capabilities. TJBot thinks that could be useful to move his/her arm while Doggy do push-ups and to light up led to advice that a new serie is started. Are you able to modify the flow to compelte this task?
 
 [Click to see one of the candidate solution instructions](Tale2.Challenge2.Doggy.TJBot.Lazy.Push-ups.md)
+
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/TJBot.Helps.Doggy.Doing.Exercises.gif)
+
+[click to run video from YouTube](https://youtu.be/vIt2zbiU5RU)
 
 # License  
 This project uses the [Apache License Version 2.0](../../LICENSE) software license.  
