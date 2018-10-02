@@ -32,15 +32,12 @@ Apply the following setup instuctions to your Doggy version.
 
 [How to Setup and Test Doggy's front legs (2 x SG-90)](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20front%20legs%20using%20SG-90.md)
 
-## If you develop new features for Doggy, open a request and I'll be happy to host it in this space! * Has anybody said a supernose? 
+## If you develop new features for Doggy, open a request and I'll be happy to host it in this space! 
+
+**Has anybody said a supernose?**
 
 
 ![TJDog and his-her dog](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/TJBot%20and%20Doggy%20-%20advanced%20version.gif)
-
-
-## Credits
-
-...
 
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACK are WELCOME!
 
