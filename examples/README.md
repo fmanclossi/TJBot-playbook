@@ -25,15 +25,15 @@ This activity complement [“What’s Possible With AI – TJ Bot” Activity Ki
 Students will increase experience and skills using a Raspberry Pi, Servo Motors, Sonar sensor and unleash their creativity following TJBot and Doggy in funny tales powered by Watson™ services.
 
 * **Audience:**
-** Ages 11-14 (Middle grade students)
-** Ages 14-19 (Secondary/high school students) 
+  * Ages 11-14 (Middle grade students)
+  * Ages 14-19 (Secondary/high school students) 
 * **What’s the goal of this kit?**
-** Introduce cognitive technologies and programming
-** Explore “embedded cognition”— everyday objects that use AI to interact with us
-** Support environmental education activity reusing cardboard and common material
+  * Introduce cognitive technologies and programming
+  * Explore “embedded cognition”— everyday objects that use AI to interact with us
+  * Support environmental education activity reusing cardboard and common material
 * **Why is this topic important?**
-** The technologies introduced through this activity have a growing impact in our world.
-** A fun, creative, hands-on project is an ideal way to stimulate students’ interest in STEM topics
+  * The technologies introduced through this activity have a growing impact in our world.
+  * A fun, creative, hands-on project is an ideal way to stimulate students’ interest in STEM topics
 
 ![MiniDoggy and tea](Doggy/Media/MiniDoggyReduced/MiniDoggyAnimated.gif)
 
