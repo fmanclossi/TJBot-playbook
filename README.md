@@ -39,15 +39,34 @@ You can reach him on [Github node-red-contrib-tjbot Repository](https://github.c
 
 ...work in progress...
 
-### [TJBot and his/her dog!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
+## [TJBot and his/her dog - When AI meets pets - Segrate, May - October 2018](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
-TJBot loves pets even they could be noisy. He/Her owns two dogs, Doggy and MiniDoggy. Doggy is a very careful watchdog. Nothing and no one can pass without getting a strong barking. Mini Doggy is more distracted one, it doesn’t look at what happens around it but it’s happy to play with TJBot.
+TJBot loves pets even though they can be noisy. He/Her owns two dogs, Doggy and MiniDoggy.
+
+Doggy is a very careful watchdog while MiniDoggy is more distracted one, it doesn’t look at what happens around it but it’s happy to play with TJBot.
 
 We follow TJBot and its doggies in some funny stories learning how IBM solutions could be applied to real life examples.
 
-Every tale includes Doggy requirement, Skills, Age, Knowledge acquired and preparaton steps.
+Doggy is an original idea from IBM Italy Volunteers. The first draft was developed during a stage with high school students in IBM Italy Segrate, May 2018.
 
-![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02c01.Doggy.Lazy.PushUps.Animated.gif)
+This activity complement [“What’s Possible With AI – TJ Bot” Activity Kit](https://www.ibm.com/ibm/responsibility/initiatives/activitykits/tjbot/)  expanding students’ knowledge regarding robotics , cognitive technologies and AI by helping them build a simple companion for TJBot, a cute dog called Doggy. 
+
+Students will increase experience and skills using a Raspberry Pi, Servo Motors, Sonar sensor and unleash their creativity following TJBot and Doggy in funny tales powered by Watson™ services.
+
+* **Audience:**
+  * Ages 11-14 (Middle grade students)
+  * Ages 14-19 (Secondary/high school students) 
+* **What’s the goal of this kit?**
+  * Introduce cognitive technologies and programming
+  * Explore “embedded cognition”— everyday objects that use AI to interact with us
+  * Support environmental education activity reusing cardboard and common material
+* **Why is this topic important?**
+  * The technologies introduced through this activity have a growing impact in our world.
+  * A fun, creative, hands-on project is an ideal way to stimulate students’ interest in STEM topics
+
+![MiniDoggy and tea](examples/Doggy/Media/MiniDoggyReduced/MiniDoggyAnimated.gif)
+
+**Available also in PDF and PowerPoint format.**
 
 ### We Need You! Submit your stories to expand Doggy's behaviour :)
 
