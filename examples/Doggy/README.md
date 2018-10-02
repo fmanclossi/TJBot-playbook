@@ -43,7 +43,12 @@ We follow TJBot and its doggies in some [funny stories](https://github.com/fmanc
 
 ## Credits
 
-...
+Doggy is an original idea from a team of IBM Italy Volunteers. 
+
+The first draft was developed during a stage with high school students in IBM Segrate, July 2018. 
+
+A special **GRAZIE** to Fabrizio Repossi, Hossam Lemtaffah, Matteo Vergottini, Riccardo Manfredonia, Thierno Filippo D'Amelio and Usama Muhammad.
+
 
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
 
