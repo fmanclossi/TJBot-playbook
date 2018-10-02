@@ -2,7 +2,7 @@
 
 MiniDoggy is a tiny and cute companion for your TJBot. MiniDoggy hosts an SG-90 servo motor to bring a never-stopping tail to life.
 
-### Level: some task could be tricky but could be performed under adult’s guidance
+### Level: some tasks could be tricky but could be performed under adult’s guidance
 
 ### Requirements
 
@@ -28,11 +28,11 @@ MiniDoggy is a tiny and cute companion for your TJBot. MiniDoggy hosts an SG-90 
 
 ![MiniDoggy folded](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/I'm%20folded%20up%20and%20down.jpg)
 
-* stapple left and right ears
+* staple left and right ears
 
-![stapple right ear](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/Stapple%20left%20ear.jpg)
+![staple right ear](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/Stapple%20left%20ear.jpg)
 
-* stapple neck and back
+* staple neck and back
 
 * (optional) If you like, or if you printed MiniDoggy on standard printer paper, fold and mount MiniDoggy's belly
 
@@ -68,8 +68,6 @@ Pin 24 - GPIO 08 - Data servo motor (tail) | Black | Yellow to Orange (Data serv
 * insert tongue and enjoy your MiniDoggy
 
 ![enjoy MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/MiniDoggy%20finished.jpg)
-
-....
 
 [Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
