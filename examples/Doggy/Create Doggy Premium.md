@@ -4,7 +4,7 @@ Doggy is the perfect companion for your TJBot. DOGGY Premium hosts an HC-SR04 se
 
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
 
-## Level: some task could be tricky but could be performed under adult’s guidance
+## Level: some tasks could be tricky but could be performed under adult’s guidance
 
 ## Requirements
 
@@ -52,7 +52,6 @@ TIP: Fix leg to servo arm as shown in picture, leaving space to attach it to ser
 
 ![fix leg #2](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/23.Doggy%20how%20to%20fix%20leg.jpg)
   
-
 As tail, legs are personality traits. Use your imagination and try different legs. In the following photo, I wrapped leg starting from servo arm to leg’s end.
 
 ![tail #2](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/25.Doggy%20tail%20version2.jpg)
@@ -82,15 +81,11 @@ Pin 24 - GPIO 08 - Data servo motor (tail) | Black |  | Orange to Orange (Data s
 
 ![tail #2](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/25.Doggy%20tail%20version2.jpg)
 
-* enjoy your Doggy Premium
+**enjoy your Doggy Premium**
 
 ![Doggy Premium](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/26.Doggy_standing%20up.jpg)
 
-
-....
-
 [Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
-
 
 # License  
 This project uses the [Apache License Version 2.0](../../LICENSE) software license.  
