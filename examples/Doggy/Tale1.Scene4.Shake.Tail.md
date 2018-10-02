@@ -1,5 +1,5 @@
 # Tales of two doggies
-# TALE 1 – Doggy barks and shake its tail if an object is less than 30cm away
+# TALE 1 – Doggy barks and wags its tail if an object is less than 30cm away
 Doggy is a very careful watchdog. Nothing and no one can pass without getting a strong barking.
 
 [Back to the first scene - Tale1.Scene1](Tale1.Scene1.Say.BARK.md) - Create a flow that makes Doggy say “BARK!” if an object is less than 30cm away
@@ -8,7 +8,7 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 [Back to the previous scene - Tale1.Scene3](Tale1.Scene3.Smart.BARKING.md) – Smart barking, just one time, please!
 
-## Tale1.Scene4 – Shake a tail! Shake it, shake it, shake it Doggy! 
+## Tale1.Scene4 – Doggy is happy and wags its tail 
 
 **Requirement:** TJBot, MiniDoggy, Doggy (Standard or Premium) – [already setup and tested](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
 
@@ -76,7 +76,7 @@ What happens when you press “Simulated Doggy’s Eyes” INJECT node?
 
 ![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s48.MiniDoggy.Test.Tail.Animated.Flow.Completed.jpg)
 
-Why the tail shakes only some time and not always?
+Why the tail wags only some time and not always?
 
 HINT: add a debug node to show “Simulated Distance Measurement” output. Call it “Distance” and press DEPLOY. Press again “Simulated Doggy’s Eyes” INJECT node 
 
