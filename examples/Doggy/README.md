@@ -4,6 +4,8 @@ Doggy is the perfect companion for your TJBot. It's available in four format, ex
 
 ![TJDog and his-her dog](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/TJBot%20and%20Doggy%20-%20advanced%20version.gif)
 
+**Download [Activity Kit - PDF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Activity%20Kit%20Doggy%2020181001.pdf) or follow on-line instructions (up-to-date)**
+
 It works with TJBot already configured as described in [setup pages](https://github.com/fmanclossi/TJBot-playbook/tree/master/setup).
 
 ## Doggy's family
