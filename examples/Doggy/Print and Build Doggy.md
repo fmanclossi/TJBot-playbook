@@ -47,10 +47,6 @@ Cables, Cardboard, stapler, marking pens, scotch tape | Yes | Yes | Yes | Yes
 * MiniDoggy - Tiny dog with the cutest tail in the world. [Easier and cutest Doggy version](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Create%20MiniDoggy.md)
 
 
-## Credits
-
-...
-
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
 
 # License  
