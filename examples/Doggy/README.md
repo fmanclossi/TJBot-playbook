@@ -6,9 +6,10 @@ Node-Red makes programming a very easy task, from children to grandparents.
 
 Doggy demonstrates how to expand TJBot using common and low cost IOT devices.
 
-Mixing all together is an excellent way to have fun and effective activities.
+**Mixing all together is an excellent way to have fun and effective activities.**
 
-Ferruccio Manclossi, IBM Italy, September 2018
+_Ferruccio Manclossi, IBM Italy, September 2018_
+
 ![Feedback](Media/Tales/Comic.T0.Feedback.jpg)
 
 Doggy is an original idea from a team of IBM Italy Volunteers. The first draft was developed during a stage with high school students in IBM Segrate, July 2018. A special **GRAZIE** to Fabrizio Repossi, Hossam Lemtaffah, Matteo Vergottini, Riccardo Manfredonia, Thierno Filippo D'Amelio and Usama Muhammad
@@ -31,7 +32,7 @@ It works with TJBot already configured as described in [setup pages](https://git
 
 ![MiniDoggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/MiniDoggyReduced/MiniDoggy%20finished.jpg)
 
-Doggy is very easy to build 'cause it provided with A4 format. Just print/copy it and cut, fold, connect!
+Doggy is very easy to build because it provided with A4 format. Just print/copy it and cut, fold, connect!
 
 **Level: some task could be tricky but could be performed under adult’s guidance**
 
@@ -52,16 +53,6 @@ We follow TJBot and its doggies in some [funny stories](https://github.com/fmanc
 ## Configure Doggy's
 
 [How to setup and test Doggy's features](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
-
-
-## Credits
-
-Doggy is an original idea from a team of IBM Italy Volunteers. 
-
-The first draft was developed during a stage with high school students in IBM Segrate, July 2018. 
-
-A special **GRAZIE** to Fabrizio Repossi, Hossam Lemtaffah, Matteo Vergottini, Riccardo Manfredonia, Thierno Filippo D'Amelio and Usama Muhammad.
-
 
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
 
