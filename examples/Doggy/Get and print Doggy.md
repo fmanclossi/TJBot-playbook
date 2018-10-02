@@ -26,7 +26,7 @@ Doggy is the perfect companion for your TJBot. It's available in four format, ex
 
    * [Doggy PDF format - Optional and advanced parts](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/Doggy_with_tail_20180908a_advanced_A4.pdf)
 
-* MiniDoggy - ultra-dinamic tail only
+* MiniDoggy - ultra-dynamic tail only
 
    * [MiniDoggy DXF format](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Design_files/MiniDoggy_with_tail_20180903b.dxf)
 
@@ -62,9 +62,6 @@ Doggy Standard can be easily printed on 200gr/m² A4 paper (local print shop or 
 MiniDoggy can be easily printed on 200gr/m² A4 paper (local print shop or standard printer)
 200gr/m² A4 paper is enough strong to support servo motor weight.
 No need for "Belly" part (but if you like it, just fold it and insert mounting servo on it). Belly part is mandatory if you use standard printer paper.
-
- 
-....
 
 [Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
