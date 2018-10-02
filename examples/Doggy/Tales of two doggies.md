@@ -16,7 +16,7 @@ Every tale includes Doggy requirement, Skills, Age, Knowledge acquired and prepa
 
 * [TALE 1 – Doggy barks and shake its tail if an object is less than 30cm away](Tales%20of%20two%20doggies.md#tale-1--doggy-barks-and-shake-its-tail-if-an-object-is-less-than-30cm-away)
 
-* [TALE 2 – Doggy is a greedy pet and needs to go on diet](Tales%20of%20two%20doggies.md#tale-2-–doggy-is-a-greedy-pet-and-needs-to-go-on-diet)
+* [TALE 2 – Doggy likes his treats.  It needs to eat healthier and start doing exercises](Tales%20of%20two%20doggies.md#tale-2-–doggy-is-a-greedy-pet-and-needs-to-go-on-diet)
 
 ![MiniDoggy and tea](Media/MiniDoggyReduced/MiniDoggyAnimated.gif)
 
@@ -25,8 +25,6 @@ Every tale includes Doggy requirement, Skills, Age, Knowledge acquired and prepa
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
 
 [Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
-
-----
 
 ## TALE 1 – Doggy barks and shake its tail if an object is less than 30cm away
 
@@ -38,11 +36,11 @@ We already known that Doggy is a very careful watchdog. Nothing and no one can p
 
 * [Tale1.Scene3 – Smart barking, just one time, please!](Tale1.Scene3.Smart.BARKING.md)
 
-* [Tale1.Scene4 – Shake a tail! Shake it, shake it, shake it Doggy!](Tale1.Scene4.Shake.Tail.md)
+* [Tale1.Scene4 – Doggy is happy and wags its tail](Tale1.Scene4.Shake.Tail.md)
 
-![Shake tail, Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s04.Shake.Tail.animated.gif)
+![Wag tail, Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s04.Shake.Tail.animated.gif)
 
-Funny? I **challenge you** to mix scene3 and scene4 elements to make Doggy barking and shaking tail when an object is near than 30cm. Ready… Steady… GO!
+Funny? I **challenge you** to mix scene3 and scene4 elements to make Doggy barking and waging tail when an object is near than 30cm. Ready… Steady… GO!
 
 [Click to see one of the candidate solution](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01C01.Barking.Shaking.Flow.jpg)
 
@@ -50,7 +48,7 @@ Funny? I **challenge you** to mix scene3 and scene4 elements to make Doggy barki
 
 Let's now introduce TJBot in our story. He/She knows that Doggy barks to everything. But it's cute and he/she loves it.
 
-* [Tale1.Scene5 - TJBot wakes up when Doggy start barking and calm down Doggy](Tale1.Scene5.TJBot.Identify.Object.And.Calm.Doggy.md)
+* [Tale1.Scene5 - TJBot wakes up when Doggy start barking and calms it down](Tale1.Scene5.TJBot.Identify.Object.And.Calm.Doggy.md)
 
 ![Calm down, Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.TJBot.waked.up.Calm.Down.Doggy_with_TEXT.gif)
 
@@ -58,9 +56,9 @@ Let's now introduce TJBot in our story. He/She knows that Doggy barks to everyth
 
 ### We Need You: Submit your scenes to expand Doggy's behaviour :)
 
-## TALE 2 – Doggy is a greedy pet and needs to go on diet
+## TALE 2 – Doggy likes his treats.  It needs to eat healthier and start doing exercises.
 
-Doggy is a cute pet... sweet tooth, too. Cake, ice creams but also hamburgers, chips, pizza and pasta! It needs to go on diet and start doing exercises!
+Doggy is a sweet tooth. It loves treats, cakes and ice cream. Also likes hamburgers, chips, pizza and pasta!  It’s getting fat, so it needs to eat healthier and start doing exercises! But it doesn’t like gymnastic!!!
 
 ![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02c01.Doggy.Lazy.PushUps.Animated.gif)
 
