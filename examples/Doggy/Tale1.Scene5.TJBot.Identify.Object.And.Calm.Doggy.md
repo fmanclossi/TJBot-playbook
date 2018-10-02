@@ -1,10 +1,10 @@
 # Tales of two doggies
-# TALE 1 – Doggy barks and shake its tail if an object is less than 30cm away
+# TALE 1 – Doggy barks and wags its tail if an object is less than 30cm away
 Doggy is a very careful watchdog. Nothing and no one can pass without getting a strong barking.
 
 [Back to Tale of two doggies MAIN INDEX](Tales%20of%20two%20doggies.md)
 
-## Tale1.Scene5 – TJBot wakes up when Doggy start barking and calm it down 
+## Tale1.Scene5 – TJBot wakes up when Doggy start barking and calms it down 
 
 **Requirement:** TJBot, Doggy Premium – [already setup and tested](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
 
@@ -110,7 +110,7 @@ Probably you (or your students) noticed that Doggy and TJBot try to identify mul
 ![image]( https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t01s05.Doggy.wakes.TJBot.Fixed.Flow.jpg)
 
 **Steps (part 4):** Doggy is calmed and happy
-When Doggy is calm, it shakes its tail and go down on its belly.
+When Doggy is calm, it wags its tail and go down on its belly.
 
 * modify flow as shown in the following figure (hint: copy nodes from previous flow)
 
