@@ -53,10 +53,7 @@ Pin 24 - GPIO 08 Data servo motor (tail) | Black | Orange to Orange (Data servo 
 
 ![standard belly](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/DoggyReduced/10.Doggy%20-%20tailed%20version%20with%20basic%20belly.jpg)
  
-
-* enjoy your Doggy Standard
-
-....
+**enjoy your Doggy Standard**
 
 [Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
