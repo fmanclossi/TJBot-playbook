@@ -10,8 +10,7 @@ Work with four TJBot already configured as described in [setup pages](https://gi
 ## Ideas from Stage Alternanza Scuola-Lavoro - Segrate, May 2018
 [Node-Red Labs with TJBot!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Segrate_ASL2018_learn_TJBot_with_Node_Red)
 
-## TJBot and his/her dog - When AI meets pets - Segrate, May - October 2018
-[Doggy!](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
+## [TJBot and his/her dog - When AI meets pets - Segrate, May - October 2018](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
 TJBot loves pets even though they can be noisy. He/Her owns two dogs, Doggy and MiniDoggy.
 
@@ -36,7 +35,7 @@ Students will increase experience and skills using a Raspberry Pi, Servo Motors,
 ** The technologies introduced through this activity have a growing impact in our world.
 ** A fun, creative, hands-on project is an ideal way to stimulate students’ interest in STEM topics
 
-![MiniDoggy and tea](Media/MiniDoggyReduced/MiniDoggyAnimated.gif)
+![MiniDoggy and tea](Doggy/Media/MiniDoggyReduced/MiniDoggyAnimated.gif)
 
 **Available also in PDF and PowerPoint format.**
 
