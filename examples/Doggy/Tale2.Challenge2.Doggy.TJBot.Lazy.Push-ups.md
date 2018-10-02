@@ -1,7 +1,6 @@
 # Tales of two doggies
-# TALE 2 – Doggy is a greedy pet and needs to go on diet
-
-Doggy is a cute pet... sweet tooth, too. Cake, ice creams but also hamburgers, chips, pizza and pasta! It needs to go on diet!
+# Tale 2- Doggy likes his treats. It needs to eat healthier and start doing exercises
+Doggy is a sweet tooth. It loves treats, cakes and ice cream. Also likes hamburgers, chips, pizza and pasta!  It’s getting fat, so it needs to eat healthier and start doing exercises! But it doesn’t like gymnastic!!!
 
 [Back to Tale of two doggies MAIN INDEX](Tales%20of%20two%20doggies.md)
 
