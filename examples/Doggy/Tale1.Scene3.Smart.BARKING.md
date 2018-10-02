@@ -76,7 +76,7 @@ What needs to happen to let Doggy barking again?
 
 **Awesome! Doggy is growing up smarter, step by step! It’s time to shake tail!**
 
-[Move to the next scene - Tale1.Scene4 – Shake a tail! Shake it, shake it, shake it Doggy!](Tale1.Scene4.Shake.Tail.md)
+[Move to the next scene - Tale1.Scene4 – Doggy is happy and wags its tail!](Tale1.Scene4.Shake.Tail.md)
 
 [Back to main Doggy's page](https://github.com/fmanclossi/TJBot-playbook/tree/master/examples/Doggy)
 
