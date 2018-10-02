@@ -1,10 +1,10 @@
 # Tales of two doggies
-# TALE 1 – Doggy barks and shake its tail if an object is less than 30cm away
-Doggy is a very careful watchdog. Nothing and no one can pass without getting a strong barking.
+# Doggy likes his treats. It needs to eat healthier and start doing exercises
+Doggy is a sweet tooth. It loves treats, cakes and ice cream. Also likes hamburgers, chips, pizza and pasta!  It’s getting fat, so it needs to eat healthier and start doing exercises! But it doesn’t like gymnastic!!!
 
 [Back to Tale of two doggies MAIN INDEX](Tales%20of%20two%20doggies.md)
 
-## Tale1.Scene5 – Stand Up, Doggy!
+## Tale2.Scene1 – Stand Up, Doggy!
 
 **Requirement:** TJBot, Doggy Premium – [already setup and tested](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
 
@@ -20,7 +20,7 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 * verify that TJBot is fully functional and node-red is working as expected (TJBot credentials, too).
 
-* (Doggy version only) verify that Tale1.Scene4 is enabled and working on dedicated Flow
+* (Doggy Premium only) verify that Tale1.Scene4 is enabled and working on dedicated Flow
 
 **Steps:**
 
@@ -28,11 +28,11 @@ Doggy is a very careful watchdog. Nothing and no one can pass without getting a 
 
 * create a new Flow
 
-* double-click Flow label and rename it to “Tale1.Scene5”. Press “Done” to close.
+* double-click Flow label and rename it to “Tale2.Scene1”. Press “Done” to close.
 
 * double-click “Tale1.Scene4” Flow label and set status to “Disabled”. Press “Done” to close.
 
-* select “Doggy Eyes” and “Less than 30cm”nodes in “Tale1.Scene4” Flow. Press CTRL+C keys to copy them. Click on “Tale1.Scene5” Flow label. Press CTRL+V keys to paste them.
+* select “Doggy Eyes” and “Less than 30cm”nodes in “Tale1.Scene4” Flow. Press CTRL+C keys to copy them. Click on “Tale2.Scene1” Flow label. Press CTRL+V keys to paste them.
 
 * drag twice PI-GPIOD node to working area (you'll get two nodes)
 
