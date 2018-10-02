@@ -1,6 +1,17 @@
 # TJBot and her/his dog
 
-Doggy is the perfect companion for your TJBot. It's available in four format, expanding TJBot features and enabling funny scenarios.
+TJBot is a brilliant way to introduce and play with IBM Watson solution and robotics.
+
+Node-Red makes programming a very easy task, from children to grandparents.
+
+Doggy demonstrates how to expand TJBot using common and low cost IOT devices.
+
+Mixing all together is an excellent way to have fun and effective activities.
+
+Ferruccio Manclossi, IBM Italy, September 2018
+![Feedback](Media/Tales/Comic.T0.Feedback.jpg)
+
+Doggy is an original idea from a team of IBM Italy Volunteers. The first draft was developed during a stage with high school students in IBM Segrate, July 2018. A special **GRAZIE** to Fabrizio Repossi, Hossam Lemtaffah, Matteo Vergottini, Riccardo Manfredonia, Thierno Filippo D'Amelio and Usama Muhammad
 
 ![TJDog and his-her dog](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/TJBot%20and%20Doggy%20-%20advanced%20version.gif)
 
@@ -26,7 +37,9 @@ Doggy is very easy to build 'cause it provided with A4 format. Just print/copy i
 
 ## [Funny labs using Doggy](Tales%20of%20two%20doggies.md)
 
-TJBot loves pets even they could be noisy. He/Her owns two dogs, Doggy and MiniDoggy. Doggy is a very careful watchdog. Nothing and no one can pass without getting a strong barking. Mini Doggy is more distracted one, it doesn’t look at what happens around it but it’s happy to play with TJBot.
+TJBot loves pets even though they can be noisy. He/Her owns two dogs, Doggy and MiniDoggy.
+
+Doggy is a very careful watchdog while MiniDoggy is more distracted one, it doesn’t look at what happens around it but it’s happy to play with TJBot.
 
 We follow TJBot and its doggies in some [funny stories](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Tales%20of%20two%20doggies.md) learning how IBM solutions could be applied to real life examples.
 
