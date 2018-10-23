@@ -49,7 +49,7 @@ JeanCarl also created a wonderful [Medium series on Node-Red and TJBot](https://
 
 `mkdir /home/pi/Desktop/tjbot/Pictures # place to host static content from top level URL`
 
-`sudo nano /root/.node-red/settings.js. `
+`sudo nano /root/.node-red/settings.js `
 
 * Modify /root/.node-red/settings.js to point to the original Node-RED directory uncommenting and setting userDir and nodesDir variables as 
 
