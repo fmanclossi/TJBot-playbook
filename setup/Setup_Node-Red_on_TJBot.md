@@ -23,8 +23,6 @@ JeanCarl also created a wonderful [Medium series on Node-Red and TJBot](https://
 
 `sudo systemctl enable nodered.service`
 
-`sudo node test.led.js`
-
 * Then, install TJBot nodes from JeanCarl repository:
 
 `cd .node-red`
