@@ -51,7 +51,9 @@ We follow TJBot and its doggies in some [funny stories](https://github.com/fmanc
 [How to build Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Print%20and%20Build%20Doggy.md)
 
 ## Configure Doggy's
-![image](https://upload.wikimedia.org/wikipedia/commons/e/e0/New.gif) [Video tutorial - How to setup and test Doggy's features](https://www.youtube.com/playlist?list=PLXiMV-sceqdVLYL1ZvgVZcMXMVVyajM2z)
+![image](https://upload.wikimedia.org/wikipedia/commons/e/e0/New.gif)
+
+[Video tutorial - How to setup and test Doggy's features](https://www.youtube.com/playlist?list=PLXiMV-sceqdVLYL1ZvgVZcMXMVVyajM2z)
 
 [How to setup and test Doggy's features (old but still good tutorial)](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
 
