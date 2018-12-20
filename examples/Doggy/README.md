@@ -46,7 +46,7 @@ We follow TJBot and its doggies in some [funny stories](https://github.com/fmanc
 
 ![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02C02.TJBot.Wave.Shine.HelpingDoggy.Flow.jpg)
 
-### Video tutorial - How to setup and test Doggy's features
+### Video tutorial - Tale 1 - Doggy as a careful watchdog
 ![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red_small.png) 
  [Video tutorial - Tale 1 - Doggy is a very careful watchdog. Scenes Examples](https://www.youtube.com/watch?v=NwoInhDqIkU)
 
