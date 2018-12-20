@@ -46,6 +46,14 @@ We follow TJBot and its doggies in some [funny stories](https://github.com/fmanc
 
 ![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Media/Tales/t02C02.TJBot.Wave.Shine.HelpingDoggy.Flow.jpg)
 
+### Video tutorial - How to setup and test Doggy's features
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red_small.png) 
+ [Video tutorial - Tale 1 - Doggy is a very careful watchdog. Scenes Examples](https://www.youtube.com/watch?v=NwoInhDqIkU)
+
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red_small.png) 
+ [Video tutorial - Tale 1 - Doggy is a very careful watchdog. How to incrementally program it](https://www.youtube.com/watch?v=ObublU5FvRw)
+
+
 ## Print and Build your preferred Doggy
 
 [How to build Doggy](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Print%20and%20Build%20Doggy.md)
@@ -53,15 +61,16 @@ We follow TJBot and its doggies in some [funny stories](https://github.com/fmanc
 ## Configure Doggy's
 
 ### Video tutorial - How to setup and test Doggy's features
-![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red.png) 
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red_small.png) 
  [Video tutorial - How to setup and test Doggy's eyes](https://www.youtube.com/watch?v=ifiLV387OmI)
 
-![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red.png) 
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red_small.png) 
  [Video tutorial - How to setup and test Doggy's tail](https://www.youtube.com/watch?v=-KradTCKj4o)
 
-![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red.png) 
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red_small.png) 
  [Video tutorial - How to setup and test Doggy's legs](https://www.youtube.com/watch?v=X6gF7rbXPcQ)
 
+### STEP by STEP Tutorial (images + instructions - no video)
 [How to setup and test Doggy's features (old but still good tutorial)](https://github.com/fmanclossi/TJBot-playbook/blob/master/examples/Doggy/Setup%20Doggy%20and%20Test%20features.md)
 
 # HAVE FUN and REPORT ISSUES!!! PHOTOS, VIDEOS, FEEDBACKS are WELCOME!
