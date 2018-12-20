@@ -54,6 +54,13 @@ Let's now introduce TJBot in our story. He/She knows that Doggy barks to everyth
 
 [click to run video from YouTube](https://youtu.be/5DM6FVKDyXQ)
 
+### Video tutorial - Tale 1 - Doggy as a careful watchdog
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red_small.png) 
+ [Video tutorial - Tale 1 - Doggy is a very careful watchdog. Scenes Examples](https://www.youtube.com/watch?v=NwoInhDqIkU)
+
+![image](https://github.com/fmanclossi/TJBot-playbook/blob/master/Images/new_red_small.png) 
+ [Video tutorial - Tale 1 - Doggy is a very careful watchdog. How to incrementally program it](https://www.youtube.com/watch?v=ObublU5FvRw)
+
 ### We Need You: Submit your scenes to expand Doggy's behaviour :)
 
 ## TALE 2 – Doggy likes his treats.  It needs to eat healthier and start doing exercises.
